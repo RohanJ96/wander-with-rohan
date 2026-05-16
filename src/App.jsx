@@ -695,8 +695,40 @@ function ItineraryTab() {
     setItinerary("");
 
     const dest = DESTINATIONS.find((d) => d.id === selectedDest);
-    const notesBlock = dest.notes
-      ? `\n\nROHAN'S PERSONAL NOTES FOR ${dest.name.toUpperCase()} (use these as expert input — these are insider tips, not generic web knowledge):\n${dest.notes}\n`
+
+    // Trim the notes: the flight section lists every Indian city, which makes
+    // the prompt very long and slows generation. Keep only the line(s) relevant
+    // to the user's origin city, plus all non-flight notes.
+    function trimNotesForOrigin(notes, originText) {
+      if (!notes) return "";
+      const originLower = (originText || "").toLowerCase();
+      // Known city keywords we might find in flight bullet lines
+      const cityKeywords = ["delhi", "mumbai", "bengaluru", "bangalore", "hyderabad", "chennai", "kolkata", "kochi", "ahmedabad", "pune"];
+      // Which city does the user's origin mention?
+      const matchedCity = cityKeywords.find((c) => originLower.includes(c));
+      const lines = notes.split("\n");
+      const kept = [];
+      for (const line of lines) {
+        const lower = line.toLowerCase();
+        // A flight bullet line typically starts with "  * " and names a city
+        const isFlightCityLine = /^\s*\*/.test(line) && cityKeywords.some((c) => lower.includes(c));
+        if (isFlightCityLine) {
+          // Keep this flight line only if it matches the user's origin city.
+          if (matchedCity && lower.includes(matchedCity)) {
+            kept.push(line);
+          }
+          // Otherwise drop it (it's a different city's flight info)
+        } else {
+          // Keep all non-flight lines as-is
+          kept.push(line);
+        }
+      }
+      return kept.join("\n");
+    }
+
+    const trimmedNotes = trimNotesForOrigin(dest.notes, origin);
+    const notesBlock = trimmedNotes
+      ? `\n\nROHAN'S PERSONAL NOTES FOR ${dest.name.toUpperCase()} (use these as expert input — these are insider tips, not generic web knowledge):\n${trimmedNotes}\n`
       : "";
 
     const prompt = `You're an expert travel curator helping Rohan (founder of "Wander with Rohan") design a personalised travel itinerary for one of his clients. Build a thoughtful, balanced itinerary based on the brief below.
@@ -743,6 +775,8 @@ Frame as Rohan giving advice to a friend.
 
 Keep it atmospheric, not a checklist. Avoid tourist clichés. Where Rohan's personal notes apply, weave them in naturally as insider knowledge.
 
+IMPORTANT — keep the whole itinerary concise and tight. Each day's activities should be brief, punchy lines, not long paragraphs. The "Getting there" and "Hacks from Rohan" sections should each be short — a few sharp sentences or bullet points, not essays. Aim for a quick, scannable read.
+
 Format using these exact headers:
 - "## Getting there" for section 1
 - "## Day N — Title" for each day
@@ -756,7 +790,7 @@ Use plain text under each header. No markdown bold or asterisks.`;
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           model: "claude-haiku-4-5-20251001",
-          max_tokens: 4000,
+          max_tokens: 2000,
           messages: [{ role: "user", content: prompt }],
         }),
       });
