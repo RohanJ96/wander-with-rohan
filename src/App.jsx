@@ -1024,24 +1024,83 @@ Use plain text under each header. No markdown bold or asterisks.`;
 
   return (
     <div className="fade-in">
-      <section className="px-6 pb-12">
-        <div className="max-w-5xl mx-auto text-center">
-          <div className="float-in inline-flex items-center gap-2 bg-white border border-sky-100 px-3 py-1.5 rounded-full text-xs text-sky-700 mb-6 shadow-sm">
+      {/* Hero with photo background */}
+      <section className="relative px-6 py-20 md:py-28 mb-12 overflow-hidden rounded-3xl mx-4 md:mx-6">
+        {/* Background photo */}
+        <div
+          className="absolute inset-0"
+          style={{
+            backgroundImage: "url('/hero.jpg')",
+            backgroundSize: "cover",
+            backgroundPosition: "center",
+          }}
+        />
+        {/* Dark overlay for text legibility */}
+        <div
+          className="absolute inset-0"
+          style={{
+            background: "linear-gradient(to bottom, rgba(15,23,42,0.55) 0%, rgba(15,23,42,0.35) 50%, rgba(15,23,42,0.65) 100%)",
+          }}
+        />
+        {/* Hero content */}
+        <div className="relative max-w-3xl mx-auto text-center">
+          <div className="float-in inline-flex items-center gap-2 bg-white/95 backdrop-blur-sm border border-white/40 px-3 py-1.5 rounded-full text-xs text-sky-700 mb-6 shadow-sm">
             <Sparkles size={12} className="text-sky-500" />
             Powered by Claude AI
           </div>
-          <h1 className="float-in delay-1 font-display text-4xl md:text-6xl text-slate-900 leading-[1.05] tracking-tight mb-5">
-            Your trip,
+          <h1 className="float-in delay-1 font-display text-4xl md:text-6xl text-white leading-[1.05] tracking-tight mb-5" style={{ textShadow: "0 2px 20px rgba(0,0,0,0.4)" }}>
+            Thoughtful travel plans,
             <br />
-            <span className="italic text-sky-600 font-light">drafted instantly.</span>
+            <span className="italic text-sky-200 font-light">in seconds.</span>
           </h1>
-          <p className="float-in delay-2 text-base md:text-lg text-slate-600 max-w-xl mx-auto leading-relaxed">
-            Pick a destination, tell me how you travel, and get a thoughtful day-by-day plan — built from my own notes from these places.
+          <p className="float-in delay-2 text-base md:text-lg text-white/90 max-w-xl mx-auto leading-relaxed" style={{ textShadow: "0 1px 10px rgba(0,0,0,0.5)" }}>
+            Smart itineraries built from real travel notes and local insights, so you travel deeper, not just further.
           </p>
         </div>
       </section>
 
-      {/* How it works — three steps showing what's free vs paid, visible before any generation */}
+      {/* How it works — 4-step journey */}
+      <section className="px-6 mb-12">
+        <div className="max-w-5xl mx-auto">
+          <div className="text-center mb-8">
+            <div className="inline-flex items-center gap-3 text-xs uppercase tracking-[0.2em] text-sky-600 mb-3">
+              <span className="w-8 h-px bg-sky-200" />
+              How it works
+              <span className="w-8 h-px bg-sky-200" />
+            </div>
+            <h2 className="font-display text-3xl md:text-4xl text-slate-900 tracking-tight">
+              Your journey, made simple
+            </h2>
+          </div>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-3">
+            {[
+              { icon: MapPin, num: "1", title: "You tell me", desc: "Share your destination, dates, and travel style." },
+              { icon: Sparkles, num: "2", title: "I draft your trip", desc: "Claude AI drafts it from my own travel notes." },
+              { icon: MessageCircle, num: "3", title: "We refine it", desc: "I fine-tune it with you until it's perfect." },
+              { icon: Globe2, num: "4", title: "You travel", desc: "Get your plan and travel with confidence." },
+            ].map((step, i) => {
+              const Icon = step.icon;
+              return (
+                <div key={i} className="relative text-center">
+                  <div className="flex flex-col items-center">
+                    <div className="w-12 h-12 rounded-2xl bg-sky-50 text-sky-600 flex items-center justify-center mb-3">
+                      <Icon size={18} />
+                    </div>
+                    <div className="font-display text-sm text-slate-900 mb-1">
+                      <span className="text-sky-500">{step.num}.</span> {step.title}
+                    </div>
+                    <div className="text-xs text-slate-500 leading-relaxed px-1">
+                      {step.desc}
+                    </div>
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      </section>
+
+      {/* What you get — free draft vs paid tiers */}
       <section className="px-6 mb-12">
         <div className="max-w-5xl mx-auto">
           <div className="grid md:grid-cols-3 gap-3 md:gap-4">
@@ -1057,7 +1116,7 @@ Use plain text under each header. No markdown bold or asterisks.`;
                     <div className="text-[10px] uppercase tracking-wider text-emerald-600 font-medium">Free</div>
                   </div>
                   <div className="text-xs text-slate-500 leading-relaxed">
-                    Get a personalised day-by-day plan in seconds — generated by Claude AI, built on my own notes from these places.
+                    Get a personalised day-by-day plan in seconds, generated by Claude AI, built on my own notes from these places.
                   </div>
                 </div>
               </div>
@@ -1075,7 +1134,7 @@ Use plain text under each header. No markdown bold or asterisks.`;
                     <div className="text-[10px] uppercase tracking-wider text-sky-600 font-medium">From ₹499</div>
                   </div>
                   <div className="text-xs text-slate-500 leading-relaxed">
-                    Specific hotel picks, deal-savvy flight options, visa &amp; SIM clarifications — within 48 hours.
+                    Specific hotel picks, deal-savvy flight options, visa &amp; SIM clarifications, within 48 hours.
                   </div>
                 </div>
               </div>
@@ -1100,7 +1159,7 @@ Use plain text under each header. No markdown bold or asterisks.`;
             </div>
           </div>
           <div className="text-center mt-4 text-xs text-slate-500">
-            Start with the free draft below — upgrade only if you want me to take it further.
+            Start with the free draft below, upgrade only if you want me to take it further.
           </div>
         </div>
       </section>
