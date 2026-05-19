@@ -404,14 +404,19 @@ const DESTINATIONS = [
 - South Vietnam: Best Nov–Apr.
 - Overall best window for full-country trip: Jan–Apr.
 
-ITINERARY BACKBONE (14 days — scale up or down based on user's days, but keep the order):
-- Day 1–3: Hanoi & Ha Long Bay
-- Day 4: Travel/transition day to Ha Giang
-- Day 5–8: Ha Giang Loop (motorbike trip in the far north)
-- Day 9–10: Ninh Binh (can also be a day trip from Hanoi if days are tight)
-- Day 11–12: Da Nang and Hoi An
-- Day 13–14: Ho Chi Minh City
+ROHAN'S REFERENCE HIGHLIGHTS (use selectively based on user's actual day count — do NOT copy this as a fixed itinerary):
 North-to-South or South-to-North both work. I personally started from Hanoi (north).
+
+Hanoi highlights: Old Quarter, Train Street, The Note Coffee, Ha Long Bay day trip or overnight cruise
+Northern Vietnam (if enough days): Ha Long Bay overnight cruise, Ha Giang Loop (motorbike, needs 4+ days), Ninh Binh
+Central Vietnam: Da Nang, Hoi An (City of Lanterns), Ba Na Hills (go early, buy VIP pass)
+South Vietnam: Ho Chi Minh City, Ben Thanh Market, War Remnants Museum, Mekong Delta
+
+PACING GUIDANCE (reference only — always match user's actual day count):
+- 5–6 days: Pick ONE region — either Hanoi + Ha Long Bay, OR Da Nang + Hoi An, OR Ho Chi Minh City. Don't split across the country.
+- 7–9 days: Two regions max — e.g. Hanoi + Ha Long Bay + Da Nang/Hoi An
+- 10–12 days: North + Central — Hanoi, Ha Long Bay, Ninh Binh, Da Nang, Hoi An
+- 14+ days: Full north-to-south — Hanoi, Ha Long Bay, Ha Giang Loop, Da Nang, Hoi An, Ho Chi Minh City
 
 SKIP / DE-PRIORITIZE:
 - Ha Long Bay day cruise from Hanoi — fine to skip if exhausted from the overnight cruise option
@@ -479,20 +484,19 @@ Don't try north + central + south in under 12 days. Pick two regions and go deep
 - Autumn (Sep–Nov) is also beautiful — fewer crowds, foliage colours.
 - Winter (Dec–Mar) for snow experiences, onsen, and Niseko-style skiing.
 
-ITINERARY BACKBONE (10 days — scale up/down as needed):
+ROHAN'S REFERENCE HIGHLIGHTS (use selectively based on user's actual day count — do NOT copy this as a fixed itinerary):
 For first-time visitors: Tokyo + Kyoto + Osaka is the classic trio. The route can be reversed if cheaper flights into Tokyo. I personally enter via Osaka and exit via Tokyo.
 
-Day 0 — Arrive Osaka. Stay in Osaka. (Hotel area exploration, Dotonbori, shopping)
-Day 1 — Osaka. Universal Studios Japan OR Nara day trip (feed the deer — if lucky, they bow). Stay in Osaka.
-Day 2 — Osaka sightseeing (Osaka Castle, Umeda Sky, Tsutenkaku, HEP Five ferris wheel, shopping), then evening train to Kyoto. Stay in Kyoto.
-Day 3 — Kyoto. Arashiyama area (Sagano Romantic Train, Bamboo Grove), Kiyomizu-dera, Kinkaku-ji (Golden Pavilion), Fushimi Inari. Stay in Kyoto.
-Day 4 — Kyoto → Takayama. Morning Shinkansen to Nagoya, then Hida Express to Takayama. Shirakawa-go day trip (UNESCO village). Stay in Takayama.
-Day 5 — Visit Kamikochi area. Then travel to Matsumoto. Stay in Matsumoto.
-Day 6 — Early train to Kawaguchiko. Cable car ride, Oishi Park, lake boat ride, views of Mt Fuji. Stay in Kawaguchiko.
-Day 7 — To Tokyo. Either Disneyland/DisneySea OR Tokyo Tower + Imperial Palace + Ueno Zoo. Stay in Tokyo (3 nights).
-Day 8 — Tokyo sightseeing: Sensoji, Akihabara, teamLab Planets, Odaiba Park, Ginza.
-Day 9 — Tokyo: Shinjuku, Tokyo Metropolitan Government Building observatory, Harajuku, Shibuya scramble crossing. Move to airport hotel in the evening.
-Day 10 — Fly back home.
+Osaka highlights: Dotonbori, Osaka Castle, Umeda Sky, Tsutenkaku, HEP Five ferris wheel, shopping, Universal Studios Japan, Nara day trip (feed the deer).
+Kyoto highlights: Arashiyama (Sagano Romantic Train, Bamboo Grove), Kiyomizu-dera, Kinkaku-ji (Golden Pavilion), Fushimi Inari.
+Optional detours (only if enough days): Takayama + Shirakawa-go (UNESCO village), Kamikochi, Matsumoto Castle, Kawaguchiko (Mt Fuji views).
+Tokyo highlights: Sensoji, Akihabara, teamLab Planets, Odaiba, Ginza, Shinjuku, Tokyo Metropolitan Govt Observatory, Harajuku, Shibuya scramble crossing, Disneyland/DisneySea.
+
+PACING GUIDANCE (reference only — always match user's actual day count):
+- 5–6 days: Tokyo + Kyoto + Osaka only, fast pace
+- 7–8 days: Tokyo + Kyoto + Osaka with one optional detour (Nara or Kawaguchiko)
+- 10–12 days: Add Takayama, Shirakawa-go, Kawaguchiko
+- 14+ days: Can include Hiroshima, Hokkaido, or southern islands
 
 SKIP / DE-PRIORITIZE:
 - Universal Studios in Osaka — skip if you don't enjoy theme parks; substitute with Nara day trip instead.
@@ -533,6 +537,120 @@ LOGISTICS / HACKS:
 
 VIBE / PACING:
 First-time visitors should do Tokyo + Kyoto + Osaka in 10 days. Don't try to add Hokkaido or southern islands on a first trip — Japan rewards depth over breadth.`,
+  },
+  {
+    id: "uae",
+    name: "United Arab Emirates",
+    short: "UAE",
+    flag: "🇦🇪",
+    tagline: "Skyline cities, golden dunes",
+    image: "linear-gradient(135deg, #f5d76e 0%, #e8a05c 50%, #c97b40 100%)",
+    notes: `WHEN TO GO:
+- Best time to visit is October to March (pleasant weather). Note that many of the UAE's attractions are indoor and air-conditioned, so they work year-round.
+- Visiting in summer (April to September) can mean cheaper hotels and flights, but daytime heat is intense — best for those who don't mind planning around indoor activities.
+
+ROHAN'S REFERENCE HIGHLIGHTS (use selectively based on user's actual day count — do NOT copy this as a fixed itinerary):
+Dubai highlights: Dubai Creek (free, good city views and photos), Dubai Marina (free, walkable), Palm Jumeirah with a stop at Atlantis The Palm (overnight stay ~Rs 50,000; visiting for photos is worth it), Jumeirah Beach, Dubai Mall (has the Dubai Aquarium inside), the free Dubai Fountain show near the mall every half hour, Burj Khalifa "At the Top" (tickets Rs 4,000-6,000, book at ticket.atthetop.ae), Dubai Frame (1 to 1.5 hours, ~Rs 1,200), Museum of the Future (Rs 4,000-5,000), Miracle Garden (~Rs 2,000, closed roughly May/June to September/mid-October), Global Village (Rs 600-700, large entertainment area), Grand Souk and Gold Souk for shopping (dates, dry fruits, electronics, clothes, gold — look for the world's heaviest gold ring nearby), Dubai Museum, Desert Safari (4-5 hour tour with show and dinner), AYA Universe (indoor alternative to the safari).
+Abu Dhabi highlights: Sheikh Zayed Grand Mosque (free entry, strict dress code — ladies need a scarf; bring your own), Dhow Cruise (~2 hours, ~Rs 4,500, includes a show), Ferrari World (alternative to the cruise), BAPS Hindu Mandir for the evening aarti, Yas Waterworld.
+
+PACING GUIDANCE (reference only — always match user's actual day count):
+- 3–4 days: Focus on Dubai alone — city tour, Burj Khalifa, a Desert Safari, and shopping. Keep Abu Dhabi for a future trip.
+- 5–6 days: Dubai (3 days) + Abu Dhabi (2-3 days, either as day trips or staying over)
+- 7+ days: Dubai + Abu Dhabi at a relaxed pace, with extra beach time and optional theme parks
+
+SKIP / DE-PRIORITIZE:
+- The UAE packs a lot of paid attractions, and tickets add up fast. Pick the ones that genuinely interest you rather than trying to do everything — a family doing Burj Khalifa, Museum of the Future, Global Village, a Desert Safari, and Ferrari World will spend a significant amount on tickets alone.
+- If you are not a theme-park person, the waterparks (Yas Waterworld) and Ferrari World are easy to skip.
+
+FOOD — must-eats:
+- Indian food is widely available across malls and restaurants, so vegetarians and those who prefer Indian cuisine will have no trouble.
+- Worth trying at least once: a traditional Emirati or wider Middle Eastern meal — shawarma, hummus, grilled meats, and Arabic mezze.
+
+EXPERIENCES WORTH IT:
+- The Burj Khalifa "At the Top" view, especially around sunset.
+- The Dubai Fountain show outside Dubai Mall — free, runs every half hour in the evening.
+- A Desert Safari with dune bashing, a cultural show, and dinner — a UAE highlight.
+- Sheikh Zayed Grand Mosque in Abu Dhabi — stunning architecture, and free to enter.
+- An evening Dhow Cruise with dinner and a show.
+
+VISA (for Indian travelers):
+- Indians require a visa to visit the UAE.
+- Easiest route is to apply through a travel agency, which handles the process smoothly.
+- Documents needed: passport and PAN card. Processing takes roughly 3-5 working days. Visa fee is roughly Rs 7,000-8,000.
+
+INSURANCE:
+- Buy travel insurance via Policybazaar or a similar site — compare options and pick what fits. A safety net is worth having.
+
+LOGISTICS / FLIGHTS:
+- Direct flights to Dubai run from most major Indian cities: Delhi, Mumbai, Bengaluru, Hyderabad, Chennai, Jaipur, Ahmedabad, Lucknow and more.
+- Cheapest fares are usually from Mumbai and Ahmedabad (roughly Rs 16,000-20,000 round trip) and Delhi (roughly Rs 22,000-25,000 round trip).
+- If Dubai fares are high, consider flying into Abu Dhabi (about 1.5-2 hours from Dubai) or Sharjah (about 35 minutes from Dubai) instead.
+- Consider buying a tour package (from India or in the UAE) — taking taxis for all local travel can get expensive.
+- Bur Dubai is a popular area to stay: lots of Indian restaurants and markets nearby. Hotels start around Rs 6,000 per night; with breakfast, expect Rs 8,000-10,000.
+- WhatsApp messaging works, but WhatsApp calling does not — you'll need a VPN for calls.
+- SIM cards can be bought at the airport based on your data needs and budget. For a SIM before you travel, use Klook, or activate international roaming on Vi/Airtel/Jio.
+- Car rental is available with an International Driving Permit plus other formalities, but taxis are simpler for most visitors. The Dubai Metro is an option too, though it covers only some tourist spots — avoid morning and evening rush hours as it gets very crowded.
+- Currency is the AED (dirham), roughly 1 AED = 26 INR. Exchange currency in India in advance (private banks or currency exchange shops) rather than at airports, where rates are poor. If you carry USD, you can exchange it at markets in the UAE.
+
+VIBE / PACING:
+The UAE is easy and comfortable to travel — modern, safe, and well organised, which makes it a good choice for first-time international travellers and families. Dubai and Abu Dhabi can feel attraction-heavy and fast-paced, so build in some slower time: a relaxed evening at the beach or a long dinner. Six days comfortably covers the highlights of both cities; if you only have 3-4 days, focus on Dubai alone and keep Abu Dhabi for a future trip.`,
+  },
+  {
+    id: "thailand",
+    name: "Thailand",
+    short: "Thailand",
+    flag: "🇹🇭",
+    tagline: "Temples, islands, street food",
+    image: "linear-gradient(135deg, #6ec5b8 0%, #4a9e92 50%, #2d6b62 100%)",
+    notes: `WHEN TO GO:
+- Best time to visit is November to February (cooler, drier weather).
+- Summer (March to June) is hot.
+- Rainy season runs June to October.
+
+ROHAN'S REFERENCE HIGHLIGHTS (use selectively based on user's actual day count — do NOT copy this as a fixed itinerary):
+A common route covers Bangkok, Pattaya, Phuket and Krabi. North-to-south flows well, but it's easy to do just one or two areas on a shorter trip.
+
+Pattaya highlights: Sanctuary of Truth, Art in Paradise, Mini Siam, Pattaya Beach (best after 4:30 PM), cheap Thai massage (~Rs 600-700 per hour), Walking Street for nightlife, Coral Island half-day trip, Tiger Park, Pattaya Night Market.
+Bangkok highlights: Sea Life Ocean World, Madame Tussauds, Chao Phraya Dinner Cruise, Safari World and Marine Park (day trip), Grand Palace (no shorts allowed), shopping at Indra Market or Chatuchak Market, nightlife at Nana Plaza.
+Phuket highlights: Big Buddha, Phuket Town, beaches — Kata, Karon, and Patong (Patong has Bangla Market nearby for the evening), Phi Phi Island day trip with snorkelling, optional Muay Thai boxing show.
+Krabi highlights: Ao Nang Beach (best area to stay), 4 Islands day tour with snorkelling, Tiger Cave Temple, hot springs, the Emerald Pool, local markets.
+
+PACING GUIDANCE (reference only — always match user's actual day count):
+- 4–5 days: Pick ONE base — Bangkok + Pattaya, OR Phuket + Krabi. Don't try to cover the whole country.
+- 6–8 days: Bangkok + Pattaya + Phuket, OR Phuket + Krabi + Bangkok
+- 9–12 days: Full route — Bangkok, Pattaya, Phuket, and Krabi at a comfortable pace
+
+SKIP / DE-PRIORITIZE:
+- Madame Tussauds can be skipped after Sea Life Ocean World, especially if you've visited a Tussauds before.
+- Scam to watch out for: strangers approaching you on the street to chat, then steering you into buying products for them from a 7-Eleven. Politely avoid these interactions.
+
+FOOD — must-eats:
+- Don't miss Thai food: Pad Thai, Tom Yum soup, Green Curry (Gaeng Keow Wan), Som Tum (papaya salad), and Mango Sticky Rice.
+
+EXPERIENCES WORTH IT:
+- Sea Life Ocean World in Bangkok.
+- A Chao Phraya dinner cruise in Bangkok.
+- Phi Phi Island and 4 Islands snorkelling day trips.
+- The Grand Palace in Bangkok — go in the morning.
+
+VISA (for Indian travelers):
+- Indians get visa on arrival. Before travelling, register on the Thailand Digital Arrival Card site (https://tdac.immigration.go.th/arrival-card/#/home) and fill in basic details (hotel, flight).
+- This can be done 3-4 days before travel and is received immediately. The visa is free, with stays of up to 60 days.
+
+INSURANCE:
+- Buy travel insurance via Policybazaar or a similar site — compare options and pick what fits.
+
+LOGISTICS / FLIGHTS:
+- Flights from India go to Bangkok or Phuket. Cheapest fares are usually from Delhi, Kolkata, Mumbai, Ahmedabad, Hyderabad, and Lucknow (roughly Rs 12,000-16,000 round trip). These often exclude check-in baggage, which can add Rs 5,000-10,000.
+- Bring an International Driving Permit from India (a MUST) if you want to rent a scooter in Thailand — around Rs 600-700 per day.
+- Currency is the Thai Baht, roughly 1 THB = 2.96 INR. Convert in India, or carry USD and exchange it for Baht locally in Thailand.
+- SIM cards are available at the airport (~Rs 1,100). Cheaper SIMs can be bought locally at stores like 7-Eleven; for the cheapest option, check Klook for an eSIM (from ~Rs 50).
+- Bangkok hotel areas worth considering: Nana (close to the metro), Sukhumvit, and Ekkamai/Makkasan. A 4-star hotel with breakfast is a good pick; solo travellers can find hostels around Rs 800-1,000.
+- Getting around: in Pattaya, shared cars (~Rs 150) and the Grab app for taxis. Between cities, buses are cheap (Bangkok to Pattaya ~Rs 400, 2.5-3 hours; Phuket to Krabi ~Rs 700-800, ~3 hours). Bangkok to Phuket is a 12-13 hour bus (~Rs 2,000) or a Rs 5,000-6,000 flight (without baggage).
+- Download Grab, Google Translate, and offline Google Maps before landing.
+
+VIBE / PACING:
+Thailand rewards a relaxed pace — it's easy to over-pack an itinerary chasing temples, islands, and nightlife all at once. Bangkok is fast and full-on; the southern islands (Phuket, Krabi) are where you slow down. A first-time trip works best as either a city-and-beach combo or a focused island stretch, rather than trying to see everything.`,
   },
 ];
 
@@ -742,6 +860,8 @@ Travel style: ${vibe}
 ${interests ? `Specific interests: ${interests}` : ""}
 ${notesBlock}
 
+⚠️ HARD RULE — DAY COUNT: The itinerary MUST contain EXACTLY ${days} days. No more, no less. Count carefully before writing. Day 1 is arrival day (travel from ${origin}). Day ${days} is departure day (return to ${origin}). All activities fit within these ${days} days. If you have reference notes with a different number of days (e.g. a 10-day or 14-day backbone), condense or expand to fit exactly ${days} days — do not follow the backbone day count blindly.
+
 Format the response as a clean day-by-day plan with three sections:
 
 SECTION 1 — "## Getting there"
@@ -757,12 +877,15 @@ CRITICAL — to avoid factually wrong claims:
 Do NOT include currency tips, SIM info, payment advice, or general logistics here — those go in Hacks from Rohan.
 
 SECTION 2 — Day-by-day plan
+CRITICAL — DAY COUNT CHECK: Before writing, mentally count: Day 1 (arrival) + middle days + Day ${days} (departure) = ${days} total. Write EXACTLY ${days} day headers and no more.
+
 For each day:
-- A short evocative title (e.g., "Day 1 — Old Town wandering")
-- 3 to 4 specific activities structured as Morning / Afternoon / Evening
+- A short evocative title (e.g., "Day 1 — Arrival & first wander")
+- Day 1: arrival from ${origin}, check-in, light exploration only (account for travel fatigue)
+- Middle days: 3 to 4 specific activities structured as Morning / Afternoon / Evening
 - One local food or experience recommendation marked as a "Local pick"
 
-CRITICAL: The FINAL day MUST include the return flight back to ${origin}. Wrap up the trip with a morning/early-afternoon activity, then explicitly mention "Evening — Fly back to ${origin}" or similar. This makes the itinerary feel complete.
+CRITICAL: Day ${days} MUST be the departure day back to ${origin}. Include a morning activity, then "Evening — Fly back to ${origin}" or similar. Do NOT add a Day ${parseInt(days) + 1} or any days beyond ${days}.
 
 SECTION 3 — "## Hacks from Rohan"
 Everything else goes here, in Rohan's voice — direct, opinionated, useful. Cover:
@@ -1167,7 +1290,7 @@ Use plain text under each header. No markdown bold or asterisks.`;
       <section className="px-6 mb-10">
         <div className="max-w-5xl mx-auto">
           <div className="text-xs uppercase tracking-[0.2em] text-sky-600 mb-4 px-1">Step 1 — Choose your destination</div>
-          <div className="grid grid-cols-2 gap-3 md:gap-4 max-w-xl mx-auto">
+          <div className="grid grid-cols-2 md:grid-cols-3 gap-3 md:gap-4 max-w-3xl mx-auto">
             {DESTINATIONS.map((d) => {
               const selected = selectedDest === d.id;
               return (
