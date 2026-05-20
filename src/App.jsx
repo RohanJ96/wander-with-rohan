@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { MessageCircle, Sparkles, Target, ArrowRight, Calendar, Loader2, MapPin, User, Wallet, Lock, Globe2, Download, Instagram, Info, Edit2, RotateCcw, TrendingUp, Plus, CheckCircle2 } from "lucide-react";
+import { Analytics } from "@vercel/analytics/react";
 
 // ---- Storage shim ----
 // In Claude artifacts, window.storage provides an async key-value store.
@@ -700,6 +701,7 @@ export default function Site() {
       </main>
 
       <Footer />
+      <Analytics />
     </div>
   );
 }
