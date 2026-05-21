@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { MessageCircle, Sparkles, Target, ArrowRight, Calendar, Loader2, MapPin, User, Wallet, Lock, Globe2, Download, Instagram, Info, Edit2, RotateCcw, TrendingUp, Plus, CheckCircle2 } from "lucide-react";
+import { Analytics } from "@vercel/analytics/react";
 
 // ---- Storage shim ----
 // In Claude artifacts, window.storage provides an async key-value store.
@@ -668,8 +669,10 @@ export default function Site() {
   }, [activeTab]);
 
   return (
-    <div className="min-h-screen bg-[#fafcff] text-slate-800 font-body">
-      <style>{`
+    <>
+      <Analytics />
+      <div className="min-h-screen bg-[#fafcff] text-slate-800 font-body">
+        <style>{`
         @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,300;1,9..144,400&family=Inter:wght@300;400;500;600&display=swap');
         .font-display { font-family: 'Fraunces', Georgia, serif; font-optical-sizing: auto; }
         .font-body { font-family: 'Inter', -apple-system, sans-serif; }
@@ -701,6 +704,7 @@ export default function Site() {
 
       <Footer />
     </div>
+    </>
   );
 }
 
