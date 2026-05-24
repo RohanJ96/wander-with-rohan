@@ -479,14 +479,16 @@ Don't try north + central + south in under 12 days. Pick two regions and go deep
     flag: "🇯🇵",
     tagline: "Old shrines, neon nights",
     image: "linear-gradient(135deg, #e8b4c8 0%, #c98aa8 50%, #8c5878 100%)",
-    notes: `WHEN TO GO:
+    notes: `ROHAN'S NOTE: I haven't personally been to Japan yet — these notes are based on detailed research, traveller blogs, and trusted sources. I'll refine them with first-hand opinions after I visit. Until then, treat these notes as a well-researched starting point, not personal experience.
+
+WHEN TO GO:
 - Best window: Cherry Blossom season in April. Apr–May is the prime time overall.
 - Avoid Jun–Aug (hot, humid, rainy).
 - Autumn (Sep–Nov) is also beautiful — fewer crowds, foliage colours.
 - Winter (Dec–Mar) for snow experiences, onsen, and Niseko-style skiing.
 
 ROHAN'S REFERENCE HIGHLIGHTS (use selectively based on user's actual day count — do NOT copy this as a fixed itinerary):
-For first-time visitors: Tokyo + Kyoto + Osaka is the classic trio. The route can be reversed if cheaper flights into Tokyo. I personally enter via Osaka and exit via Tokyo.
+For first-time visitors: Tokyo + Kyoto + Osaka is the classic trio. The route can be reversed if cheaper flights into Tokyo. Many travellers recommend entering via Osaka and exiting via Tokyo, since you usually want to end the trip in Tokyo for shopping and the airport's international connections.
 
 Osaka highlights: Dotonbori, Osaka Castle, Umeda Sky, Tsutenkaku, HEP Five ferris wheel, shopping, Universal Studios Japan, Nara day trip (feed the deer).
 Kyoto highlights: Arashiyama (Sagano Romantic Train, Bamboo Grove), Kiyomizu-dera, Kinkaku-ji (Golden Pavilion), Fushimi Inari.
@@ -603,55 +605,86 @@ The UAE is easy and comfortable to travel — modern, safe, and well organised, 
     flag: "🇹🇭",
     tagline: "Temples, islands, street food",
     image: "linear-gradient(135deg, #6ec5b8 0%, #4a9e92 50%, #2d6b62 100%)",
-    notes: `WHEN TO GO:
+    notes: `ROHAN'S NOTE: I haven't personally been to Thailand yet — this destination is based on detailed research, traveller blogs, and conversations with a travel agent who specialises in Southeast Asia. I'll refine this with first-hand opinions after I visit. Until then, treat these notes as a well-researched starting point, not personal experience.
+
+WHEN TO GO:
 - Best time to visit is November to February (cooler, drier weather).
+- April brings Songkran (Thai new year, ~April 13-15) — the famous water festival. Bangkok and Chiang Mai are the best places to experience it, but be ready for 3 days of city-wide water fights. Plan around it, not through it.
 - Summer (March to June) is hot.
 - Rainy season runs June to October.
 
-ROHAN'S REFERENCE HIGHLIGHTS (use selectively based on user's actual day count — do NOT copy this as a fixed itinerary):
-A common route covers Bangkok, Pattaya, Phuket and Krabi. North-to-south flows well, but it's easy to do just one or two areas on a shorter trip.
+REGIONS AT A GLANCE (use these as building blocks, not a fixed route):
+- BANGKOK (Central): Grand Palace, Wat Arun, Chatuchak Market, Chinatown street food, Chao Phraya dinner cruise, rooftop bars, nightlife at Nana Plaza.
+- PATTAYA (Central coast, 2 hrs from Bangkok): Sanctuary of Truth, Walking Street nightlife, Coral Island half-day trip, cheap massages, Pattaya Night Market. Easy, cheap, lively — good extension from Bangkok.
+- CHIANG MAI (North): Old City temples, Sunday Night Market, ethical elephant sanctuaries (NOT riding camps), Thai cooking classes, Doi Suthep, mountain trekking. Cultural heart of Thailand.
+- CHIANG RAI (Far North): White Temple (Wat Rong Khun), Blue Temple, Golden Triangle, slower pace than Chiang Mai. Best as a 1-2 night extension.
+- AYUTTHAYA (Central, day trip from Bangkok): Ancient temple ruins, UNESCO site.
+- KRABI / AO NANG (South, Andaman): Ao Nang Beach (best base), 4 Islands tour, Phi Phi day trip, Railay rock climbing, Tiger Cave Temple, Emerald Pool. Slower, more scenic than Phuket.
+- PHUKET (South, Andaman): Big Buddha, Patong nightlife, Kata/Karon beaches, luxury resorts, Phi Phi snorkelling, Muay Thai shows. Busier than Krabi.
+- KOH SAMUI / KOH PHANGAN / KOH TAO (South, Gulf): Diving (Koh Tao is world-class and cheap to certify), Full Moon Party (Koh Phangan), luxury resorts (Koh Samui). More remote — needs flights or long ferries.
+- KHAO SOK NATIONAL PARK: Jungle, rainforest lake, floating raft houses — for the adventurous traveller who wants a break from beaches and cities.
 
-Pattaya highlights: Sanctuary of Truth, Art in Paradise, Mini Siam, Pattaya Beach (best after 4:30 PM), cheap Thai massage (~Rs 600-700 per hour), Walking Street for nightlife, Coral Island half-day trip, Tiger Park, Pattaya Night Market.
-Bangkok highlights: Sea Life Ocean World, Madame Tussauds, Chao Phraya Dinner Cruise, Safari World and Marine Park (day trip), Grand Palace (no shorts allowed), shopping at Indra Market or Chatuchak Market, nightlife at Nana Plaza.
-Phuket highlights: Big Buddha, Phuket Town, beaches — Kata, Karon, and Patong (Patong has Bangla Market nearby for the evening), Phi Phi Island day trip with snorkelling, optional Muay Thai boxing show.
-Krabi highlights: Ao Nang Beach (best area to stay), 4 Islands day tour with snorkelling, Tiger Cave Temple, hot springs, the Emerald Pool, local markets.
+BY TRAVEL STYLE — use this to shape the itinerary based on the user's selected vibe(s). The vibe selection is a HARD CONSTRAINT on which regions you visit, not a flavour preference. Build the itinerary by FIRST picking regions matching the vibe(s), THEN filling in days. Bangkok is the usual arrival airport but DO NOT default to "Bangkok + nearby" if the vibe doesn't call for it — many users will fly straight onward the same day or the next morning. If multiple vibes are selected (e.g. "Relaxed + Cultural"), split days across regions matching each vibe.
 
-PACING GUIDANCE (reference only — always match user's actual day count):
-- 4–5 days: Pick ONE base — Bangkok + Pattaya, OR Phuket + Krabi. Don't try to cover the whole country.
-- 6–8 days: Bangkok + Pattaya + Phuket, OR Phuket + Krabi + Bangkok
-- 9–12 days: Full route — Bangkok, Pattaya, Phuket, and Krabi at a comfortable pace
+- RELAXED: South Andaman coast — Krabi (Ao Nang) is the primary base + a Phi Phi or 4-Islands boat day. For a 7-day trip: max 1 night Bangkok touchdown (arrival evening), then 5-6 nights Krabi. Slow beach mornings, sunset drinks, one optional day trip. For longer trips, add Koh Lanta for even slower pace. NEVER include Pattaya or Chiang Mai unless the user also picks Cultural.
+
+- ADVENTUROUS: Gulf islands are the primary base — Koh Samui (arrival airport) + Koh Tao (the diving / snorkelling / kayaking island, ~2 hr ferry from Koh Samui) + optionally Koh Phangan. For a 7-day trip: max 1 night Bangkok touchdown, then immediately fly to Koh Samui, then split 3-4 nights between Koh Samui and Koh Tao. NEVER fill an Adventurous trip with Bangkok temples or Krabi beach days — those are Cultural / Relaxed. Adventure activities to include: scuba diving (Koh Tao is world-class and the cheapest place on earth to certify), snorkelling, kayaking, rock climbing (Railay if doing Krabi), jungle trekking (Khao Sok). For longer trips (10+ days) ADD Khao Sok National Park (jungle lake, floating bungalows) for a few nights. Chiang Mai is ONLY for Adventurous if the user wants mountain trekking — otherwise stay south.
+
+- LUXURY: Koh Samui (private villas, fine dining) + Phuket (Banyan Tree, Trisara, Amanpuri area). For a 7+ day trip, add Bangkok rooftop bars (max 1-2 nights) with a stay at the Mandarin Oriental, Peninsula or Four Seasons. NEVER include Pattaya or budget areas. Travel between regions by domestic flight, not bus.
+
+- CULTURAL: North-heavy route — Chiang Mai (Old City temples, Sunday Night Market, cooking class, Doi Suthep) + Bangkok (Grand Palace, Wat Arun, Wat Pho, Chao Phraya cruise, Chinatown food walk). For a 7-day trip: 3 nights Bangkok + 3-4 nights Chiang Mai. For longer trips, add Ayutthaya day trip from Bangkok and Chiang Rai (White Temple, Blue Temple). If timing aligns with mid-April, include Songkran. NEVER include Pattaya, luxury resorts, or beach islands — they don't match the vibe.
+
+- BALANCED: Classic first-timer mix — Bangkok (2-3 nights for temples, food, Grand Palace) + Krabi or Phuket (3-4 nights for beaches and Phi Phi). For 8+ day trips, add Chiang Mai (2-3 nights for cultural depth and cooking class). This is the safest default — covers city, culture, and beach in one trip.
+
+ROHAN'S REFERENCE HIGHLIGHTS (cross-check by region; only include what fits the user's selected vibe(s) and day count):
+Pattaya highlights: Sanctuary of Truth, Pattaya Beach (best after 4:30 PM), cheap Thai massage (~Rs 600-700/hour), Walking Street, Coral Island half-day, Tiger Park, Pattaya Night Market.
+Bangkok highlights: Grand Palace (mornings, no shorts), Wat Arun, Wat Pho, Chao Phraya Dinner Cruise, Chatuchak Market (weekends only), Chinatown food walk, Sea Life Ocean World, Nana Plaza nightlife, rooftop bars (Vertigo, Sky Bar).
+Chiang Mai highlights: Old City temple loop, Sunday Night Market, Doi Suthep temple, Thai cooking class, ethical elephant sanctuary (Elephant Nature Park is the well-known ethical one — avoid camps that offer riding).
+Chiang Rai highlights: White Temple (Wat Rong Khun), Blue Temple (Wat Rong Suea Ten), Black House, Golden Triangle viewpoint.
+Krabi/Ao Nang highlights: Ao Nang Beach base, 4 Islands day tour with snorkelling, Phi Phi day trip, Railay Beach (rock climbing), Tiger Cave Temple, Emerald Pool, local night market.
+Phuket highlights: Big Buddha, Patong/Kata/Karon beaches, Phi Phi snorkelling day trip, Old Phuket Town for cafes, optional Muay Thai show.
+Koh Samui / Tao / Phangan highlights: Koh Tao for diving (Open Water certification ~Rs 9,000-11,000), Koh Phangan for Full Moon Party (check dates), Koh Samui for luxury resorts and Big Buddha temple.
 
 SKIP / DE-PRIORITIZE:
-- Madame Tussauds can be skipped after Sea Life Ocean World, especially if you've visited a Tussauds before.
-- Scam to watch out for: strangers approaching you on the street to chat, then steering you into buying products for them from a 7-Eleven. Politely avoid these interactions.
+- Madame Tussauds — skip after Sea Life Ocean World, especially if you've visited a Tussauds before.
+- Mini Siam — touristy, low value.
+- Elephant riding camps — ethical concerns; recommend Elephant Nature Park or similar sanctuary instead.
+- Tiger selfies — most "tiger temples/parks" use sedated animals. Avoid.
+- Scam to watch out for: strangers approaching you on the street to chat, then steering you into buying products for them from a 7-Eleven. Politely decline.
+- Tuk-tuk scams — they'll offer cheap rides that end at gem stores or tailor shops where they get commission. Use Grab instead.
 
 FOOD — must-eats:
-- Don't miss Thai food: Pad Thai, Tom Yum soup, Green Curry (Gaeng Keow Wan), Som Tum (papaya salad), and Mango Sticky Rice.
+- Don't miss: Pad Thai, Tom Yum soup, Green Curry (Gaeng Keow Wan), Som Tum (papaya salad), Massaman Curry, Mango Sticky Rice (best in season — March-May).
+- For Indian vegetarian travellers: most curries can be ordered without meat — ask "jay" (no meat) or "mai sai nuea sat" (no animal). Many places in Bangkok and Chiang Mai have explicit vegetarian options. Pad Thai with egg is the safest starter dish.
+- For chicken-only eaters: "gai" means chicken — ask for "Pad Thai gai" or "Tom Yum gai". Most dishes have a chicken variant.
 
 EXPERIENCES WORTH IT:
-- Sea Life Ocean World in Bangkok.
-- A Chao Phraya dinner cruise in Bangkok.
-- Phi Phi Island and 4 Islands snorkelling day trips.
-- The Grand Palace in Bangkok — go in the morning.
+- Thai cooking class in Chiang Mai (half-day, ~Rs 2,000 — best souvenir of the trip).
+- 4 Islands or Phi Phi snorkelling day trip from Krabi.
+- Chao Phraya dinner cruise in Bangkok (touristy but genuinely fun).
+- Grand Palace in Bangkok — go at opening (8:30 AM) to beat heat and crowds.
+- Songkran (water festival, mid-April) if your dates align — once-in-a-lifetime.
 
 VISA (for Indian travelers):
-- Indians get visa on arrival. Before travelling, register on the Thailand Digital Arrival Card site (https://tdac.immigration.go.th/arrival-card/#/home) and fill in basic details (hotel, flight).
-- This can be done 3-4 days before travel and is received immediately. The visa is free, with stays of up to 60 days.
+- IMPORTANT — RULE CHANGE (May 2026): The Thai Cabinet approved a major visa policy revision on 19 May 2026, scrapping the previous 60-day visa-free entry that India had enjoyed. Under the new framework, Indian travellers are moved to the Visa on Arrival (VoA) category, which permits stays of up to 15 days. This is suitable for short trips but not for extended holidays. The change takes effect 15 days after publication in the Royal Gazette — exact implementation timing is being finalised at the time of writing.
+- BEFORE BOOKING: Verify the current rules with the Royal Thai Embassy in India or your travel agent. Policy is evolving and authoritative sources should be checked.
+- TDAC (separate from visa): All travellers must register on the Thailand Digital Arrival Card (https://tdac.immigration.go.th/arrival-card/#/home) before arrival, regardless of visa type. Fill in basic details (hotel, flight). Can be done 3-4 days before travel; received immediately.
 
 INSURANCE:
-- Buy travel insurance via Policybazaar or a similar site — compare options and pick what fits.
+- Buy travel insurance via Policybazaar or a similar site — compare options.
 
 LOGISTICS / FLIGHTS:
-- Flights from India go to Bangkok or Phuket. Cheapest fares are usually from Delhi, Kolkata, Mumbai, Ahmedabad, Hyderabad, and Lucknow (roughly Rs 12,000-16,000 round trip). These often exclude check-in baggage, which can add Rs 5,000-10,000.
-- Bring an International Driving Permit from India (a MUST) if you want to rent a scooter in Thailand — around Rs 600-700 per day.
-- Currency is the Thai Baht, roughly 1 THB = 2.96 INR. Convert in India, or carry USD and exchange it for Baht locally in Thailand.
-- SIM cards are available at the airport (~Rs 1,100). Cheaper SIMs can be bought locally at stores like 7-Eleven; for the cheapest option, check Klook for an eSIM (from ~Rs 50).
-- Bangkok hotel areas worth considering: Nana (close to the metro), Sukhumvit, and Ekkamai/Makkasan. A 4-star hotel with breakfast is a good pick; solo travellers can find hostels around Rs 800-1,000.
-- Getting around: in Pattaya, shared cars (~Rs 150) and the Grab app for taxis. Between cities, buses are cheap (Bangkok to Pattaya ~Rs 400, 2.5-3 hours; Phuket to Krabi ~Rs 700-800, ~3 hours). Bangkok to Phuket is a 12-13 hour bus (~Rs 2,000) or a Rs 5,000-6,000 flight (without baggage).
-- Download Grab, Google Translate, and offline Google Maps before landing.
+- Flights from India go to Bangkok or Phuket. Cheapest fares are usually from Delhi, Kolkata, Mumbai, Ahmedabad, Hyderabad, and Lucknow (roughly Rs 12,000-16,000 round trip). These often exclude check-in baggage (add Rs 5,000-10,000).
+- Domestic flights (AirAsia, Thai Lion Air) are the best way to move between Bangkok, Chiang Mai and Phuket/Krabi. Buses are cheaper but eat into your trip. Bangkok to Chiang Mai is ~1.5 hours by air vs 10+ hours by bus.
+- Bring an International Driving Permit from India (a MUST) for renting scooters — around Rs 600-700/day.
+- Currency: Thai Baht, ~1 THB = 2.96 INR. Convert in India or carry USD and exchange in Thailand.
+- SIM: At airport (~Rs 1,100), cheaper at 7-Eleven, or Klook eSIM from ~Rs 50.
+- Bangkok hotel areas: Nana (metro-connected), Sukhumvit, Ekkamai. A 4-star with breakfast is solid; solo travellers can find hostels around Rs 800-1,000.
+- Getting around: in cities use Grab. Between cities, domestic flights for long hops, buses for short ones (Bangkok-Pattaya ~Rs 400, 2.5 hrs; Phuket-Krabi ~Rs 700-800, 3 hrs).
+- Download Grab, Google Translate, offline Google Maps before landing.
 
 VIBE / PACING:
-Thailand rewards a relaxed pace — it's easy to over-pack an itinerary chasing temples, islands, and nightlife all at once. Bangkok is fast and full-on; the southern islands (Phuket, Krabi) are where you slow down. A first-time trip works best as either a city-and-beach combo or a focused island stretch, rather than trying to see everything.`,
+Thailand rewards a focused trip more than a comprehensive one. The country is bigger than it looks — chasing temples in Bangkok, culture in Chiang Mai, and beaches in the south all in one week will leave you exhausted and underwhelmed. For first-timers with 7 days, pick one of: city + south (Bangkok + Krabi/Phuket) OR north + south (Chiang Mai + Krabi). For 10-14 days the classic Bangkok > Chiang Mai > Phuket/Krabi triangle works beautifully. Anything longer can add Koh Samui/Tao for diving, or Khao Sok for jungle.`,
   },
 ];
 
@@ -769,7 +802,10 @@ function ItineraryTab() {
   const [selectedDest, setSelectedDest] = useState(null);
   const [days, setDays] = useState("");
   const [travelers, setTravelers] = useState("2");
-  const [vibe, setVibe] = useState("Balanced");
+  const [vibes, setVibes] = useState(["Balanced"]);
+  const vibeLabel = vibes.length > 0 ? vibes.join(" + ") : "Balanced";
+  const toggleVibe = (v) =>
+    setVibes((prev) => (prev.includes(v) ? prev.filter((x) => x !== v) : [...prev, v]));
   const [interests, setInterests] = useState("");
   const [origin, setOrigin] = useState("");
   const [originChoice, setOriginChoice] = useState("");
@@ -860,11 +896,22 @@ Origin: Travelling from ${origin}
 Destination: ${dest.name}
 Duration: ${days} days
 Travelers: ${travelers} ${travelers === "1" ? "person" : "people"}
-Travel style: ${vibe}
+Travel style: ${vibeLabel}
 ${interests ? `Specific interests: ${interests}` : ""}
 ${notesBlock}
 
 ⚠️ HARD RULE — DAY COUNT: The itinerary MUST contain EXACTLY ${days} days. No more, no less. Count carefully before writing. Day 1 is arrival day (travel from ${origin}). Day ${days} is departure day (return to ${origin}). All activities fit within these ${days} days. If you have reference notes with a different number of days (e.g. a 10-day or 14-day backbone), condense or expand to fit exactly ${days} days — do not follow the backbone day count blindly.
+
+⚠️ HARD RULE — VIBE IS A HARD CONSTRAINT: The user's selected travel style (${vibeLabel}) determines WHICH REGIONS you visit, not just the activities you do. Read the "BY TRAVEL STYLE" section of Rohan's notes carefully and pick regions that match. Do NOT default to a "safe" classic route (e.g. Bangkok + Phuket) if the user picked a specific vibe — they picked it for a reason. For pure single-vibe selections (e.g. only "Adventurous"), be strict about excluding regions that don't match. For multi-vibe selections, split days across matching regions.
+
+⚠️ HARD RULE — NO FABRICATION: Never invent facts you don't actually know. This applies to ALL destinations. Specifically:
+- Do NOT promise to "confirm" or "check" anything later — you can only generate this itinerary now. You are not a live concierge.
+- Do NOT claim specific flight routes exist (e.g. "direct flights from Chiang Mai to Krabi") unless Rohan's notes explicitly say so. When uncertain about routing, simply tell the user to check Skyscanner or Google Flights.
+- Do NOT invent opening hours, ticket prices in foreign currency, specific hotel names, or restaurant names that aren't in Rohan's notes.
+- Do NOT invent festival dates or seasonal events unless they're mentioned in Rohan's notes.
+- When uncertain, write: "check current details when booking" or "I'd recommend confirming on [relevant site]" — never pretend you'll do it yourself.
+
+⚠️ HARD RULE — DISCLAIMER VISIBILITY: If Rohan's notes for this destination begin with "ROHAN'S NOTE:" (e.g. about him not having visited yet), you MUST surface that note as a visible italicised disclaimer at the very top of the itinerary, BEFORE the "## Getting there" section. Format it exactly as: "*Note from Rohan: [the content of the ROHAN'S NOTE paragraph]*" — this transparency matters to users.
 
 Format the response as a clean day-by-day plan with three sections:
 
@@ -963,7 +1010,7 @@ Use plain text under each header. No markdown bold or asterisks.`;
       `From ${origin}`,
       `${days} days`,
       `${travelers} ${travelers === "1" ? "traveler" : "travelers"}`,
-      vibe,
+      vibeLabel,
       interests,
     ].filter(Boolean).join("  ·  ");
 
@@ -1146,7 +1193,7 @@ Use plain text under each header. No markdown bold or asterisks.`;
 
   const dest = DESTINATIONS.find((d) => d.id === selectedDest);
   const whatsappPrefill = itinerary && dest
-    ? `Hi Rohan! I generated a draft itinerary on Wander with Rohan for ${dest.name} (flying from ${origin}, ${days} days, ${travelers} travelers, ${vibe}). I'd love your help refining it.\n\n${itinerary.slice(0, 600)}${itinerary.length > 600 ? "..." : ""}`
+    ? `Hi Rohan! I generated a draft itinerary on Wander with Rohan for ${dest.name} (flying from ${origin}, ${days} days, ${travelers} travelers, ${vibeLabel}). I'd love your help refining it.\n\n${itinerary.slice(0, 600)}${itinerary.length > 600 ? "..." : ""}`
     : "Hi Rohan! Found you via Wander with Rohan — I'd love help planning a trip.";
 
   return (
@@ -1398,14 +1445,14 @@ Use plain text under each header. No markdown bold or asterisks.`;
                   <option value="7+">7 or more</option>
                 </select>
               </Field>
-              <Field label="Travel style">
+              <Field label="Travel style (pick one or more)">
                 <div className="flex flex-wrap gap-2">
-                  {["Relaxed", "Balanced", "Adventurous", "Luxury"].map((v) => (
+                  {["Relaxed", "Balanced", "Cultural", "Adventurous", "Luxury"].map((v) => (
                     <button
                       key={v}
-                      onClick={() => setVibe(v)}
+                      onClick={() => toggleVibe(v)}
                       className={`px-3 py-2 rounded-full text-xs border transition ${
-                        vibe === v
+                        vibes.includes(v)
                           ? "bg-sky-500 text-white border-sky-500"
                           : "bg-white text-slate-600 border-slate-200 hover:border-sky-300"
                       }`}
@@ -2383,12 +2430,12 @@ function Footer() {
         </div>
         <div className="flex flex-col items-start md:items-end gap-1.5 text-sm">
           <a
-            href="https://www.instagram.com/rohan_jagtap29/"
+            href="https://www.instagram.com/wander.with.rohan/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-slate-700 hover:text-pink-600 transition"
           >
-            <Instagram size={14} /> @rohan_jagtap29
+            <Instagram size={14} /> @wander.with.rohan
           </a>
           <a
             href={waLink("Hi! Found you via Wander with Rohan.")}
