@@ -899,6 +899,15 @@ ${notesBlock}
 
 ⚠️ HARD RULE — DAY COUNT: The itinerary MUST contain EXACTLY ${days} days. No more, no less. Count carefully before writing. Day 1 is arrival day (travel from ${origin}). Day ${days} is departure day (return to ${origin}). All activities fit within these ${days} days. If you have reference notes with a different number of days (e.g. a 10-day or 14-day backbone), condense or expand to fit exactly ${days} days — do not follow the backbone day count blindly.
 
+⚠️ HARD RULE — NO FABRICATION: Never invent facts you don't actually know. This applies to ALL destinations. Specifically:
+- Do NOT promise to "confirm" or "check" anything later — you can only generate this itinerary now. You are not a live concierge.
+- Do NOT claim specific flight routes exist (e.g. "direct flights from Chiang Mai to Krabi") unless Rohan's notes explicitly say so. When uncertain about routing, simply tell the user to check Skyscanner or Google Flights.
+- Do NOT invent opening hours, ticket prices in foreign currency, specific hotel names, or restaurant names that aren't in Rohan's notes.
+- Do NOT invent festival dates or seasonal events unless they're mentioned in Rohan's notes.
+- When uncertain, write: "check current details when booking" or "I'd recommend confirming on [relevant site]" — never pretend you'll do it yourself.
+
+⚠️ HARD RULE — DISCLAIMER VISIBILITY: If Rohan's notes for this destination begin with "ROHAN'S NOTE:" (e.g. about him not having visited yet), you MUST surface that note as a visible italicised disclaimer at the very top of the itinerary, BEFORE the "## Getting there" section. Format it exactly as: "*Note from Rohan: [the content of the ROHAN'S NOTE paragraph]*" — this transparency matters to users.
+
 Format the response as a clean day-by-day plan with three sections:
 
 SECTION 1 — "## Getting there"
