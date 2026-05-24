@@ -479,14 +479,16 @@ Don't try north + central + south in under 12 days. Pick two regions and go deep
     flag: "🇯🇵",
     tagline: "Old shrines, neon nights",
     image: "linear-gradient(135deg, #e8b4c8 0%, #c98aa8 50%, #8c5878 100%)",
-    notes: `WHEN TO GO:
+    notes: `ROHAN'S NOTE: I haven't personally been to Japan yet — these notes are based on detailed research, traveller blogs, and trusted sources. I'll refine them with first-hand opinions after I visit. Until then, treat these notes as a well-researched starting point, not personal experience.
+
+WHEN TO GO:
 - Best window: Cherry Blossom season in April. Apr–May is the prime time overall.
 - Avoid Jun–Aug (hot, humid, rainy).
 - Autumn (Sep–Nov) is also beautiful — fewer crowds, foliage colours.
 - Winter (Dec–Mar) for snow experiences, onsen, and Niseko-style skiing.
 
 ROHAN'S REFERENCE HIGHLIGHTS (use selectively based on user's actual day count — do NOT copy this as a fixed itinerary):
-For first-time visitors: Tokyo + Kyoto + Osaka is the classic trio. The route can be reversed if cheaper flights into Tokyo. I personally enter via Osaka and exit via Tokyo.
+For first-time visitors: Tokyo + Kyoto + Osaka is the classic trio. The route can be reversed if cheaper flights into Tokyo. Many travellers recommend entering via Osaka and exiting via Tokyo, since you usually want to end the trip in Tokyo for shopping and the airport's international connections.
 
 Osaka highlights: Dotonbori, Osaka Castle, Umeda Sky, Tsutenkaku, HEP Five ferris wheel, shopping, Universal Studios Japan, Nara day trip (feed the deer).
 Kyoto highlights: Arashiyama (Sagano Romantic Train, Bamboo Grove), Kiyomizu-dera, Kinkaku-ji (Golden Pavilion), Fushimi Inari.
