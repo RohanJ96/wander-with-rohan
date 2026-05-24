@@ -666,8 +666,9 @@ EXPERIENCES WORTH IT:
 - Songkran (water festival, mid-April) if your dates align — once-in-a-lifetime.
 
 VISA (for Indian travelers):
-- Indians get visa on arrival. Before travelling, register on the Thailand Digital Arrival Card (https://tdac.immigration.go.th/arrival-card/#/home) and fill in basic details (hotel, flight).
-- Can be done 3-4 days before travel; received immediately. Visa is free, stays up to 60 days.
+- IMPORTANT — RULE CHANGE (May 2026): The Thai Cabinet approved a major visa policy revision on 19 May 2026, scrapping the previous 60-day visa-free entry that India had enjoyed. Under the new framework, Indian travellers are moved to the Visa on Arrival (VoA) category, which permits stays of up to 15 days. This is suitable for short trips but not for extended holidays. The change takes effect 15 days after publication in the Royal Gazette — exact implementation timing is being finalised at the time of writing.
+- BEFORE BOOKING: Verify the current rules with the Royal Thai Embassy in India or your travel agent. Policy is evolving and authoritative sources should be checked.
+- TDAC (separate from visa): All travellers must register on the Thailand Digital Arrival Card (https://tdac.immigration.go.th/arrival-card/#/home) before arrival, regardless of visa type. Fill in basic details (hotel, flight). Can be done 3-4 days before travel; received immediately.
 
 INSURANCE:
 - Buy travel insurance via Policybazaar or a similar site — compare options.
