@@ -419,6 +419,18 @@ PACING GUIDANCE (reference only — always match user's actual day count):
 - 10–12 days: North + Central — Hanoi, Ha Long Bay, Ninh Binh, Da Nang, Hoi An
 - 14+ days: Full north-to-south — Hanoi, Ha Long Bay, Ha Giang Loop, Da Nang, Hoi An, Ho Chi Minh City
 
+BY TRAVEL STYLE — use this to shape the itinerary based on the user's selected vibe(s). The vibe selection is a HARD CONSTRAINT on which regions you visit. Build the itinerary by FIRST picking regions matching the vibe(s), THEN filling in days. If multiple vibes are selected, split days across regions matching each vibe.
+
+- BALANCED: Classic Vietnam route — Rohan's actual 7-night trip covered exactly this. For a 7-day trip: 2 nights Hanoi (Old Quarter, Train Street, Hoan Kiem Lake) + 1 day Ha Long Bay (day cruise from Hanoi) + 1 day Ninh Binh (day trip from Hanoi — Trang An boats, the surprise of the trip) + fly to Da Nang for 2-3 nights (Marble Mountains, Dragon Bridge, Ba Na Hills, Hoi An day/evening trip for lanterns). NEVER fill 7 days with only Hanoi + Ha Long Bay. The whole point of Balanced is the north-to-central combination. For 5-6 days, drop Ninh Binh OR drop Ba Na Hills. For 10+ days, add an overnight stay in Hoi An.
+
+- CULTURAL: Heritage + temples focus. Stay heavier in Hanoi (Old Quarter walks, Temple of Literature, Ho Chi Minh Mausoleum, Train Street, museums) + Hoi An Ancient Town (UNESCO World Heritage, lantern streets, tailor shops, riverside walks). For a 7-day trip: 3 nights Hanoi + 2 nights Hoi An (stay overnight, not as a day trip from Da Nang) + 1 day Ninh Binh (Bai Dinh Pagoda + Trang An). Skip Ha Long Bay if days are tight — it's scenic but not cultural. Skip Ba Na Hills (theme park vibe, not cultural).
+
+- RELAXED: Slow Vietnam — fewer cities, more time per place. For a 7-day trip: 2 nights Hanoi (only enough to soak in the Old Quarter vibe) + 2 nights Ha Long Bay (overnight cruise, not day trip — let the bay's slowness work on you) + 3 nights in Hoi An or Da Nang's My Khe Beach (long mornings, riverside coffees, beach time). NEVER pack this with day trips and tours — the whole vibe is anti-rushing.
+
+- ADVENTUROUS: Note — Rohan hasn't personally tested adventure circuits in Vietnam yet. Based on research: north Vietnam offers the best adventure — Ha Giang Loop (motorbike, 3-4 days, needs riding experience), Sapa (trekking, 3+ days), or Cat Ba Island (rock climbing, kayaking near Ha Long Bay). For a 7-day Adventurous trip: 1 night Hanoi arrival + 4-5 days Ha Giang Loop (or Sapa trekking if motorbike isn't an option) + 1 night back in Hanoi. If user is a confident motorbike rider, recommend Ha Giang. If not, recommend Sapa with a guided trek. Caveat: confirm logistics before booking, this is a researched recommendation not first-hand.
+
+- LUXURY: Note — Rohan hasn't personally tested luxury circuits in Vietnam yet. Based on research: Vietnam has strong luxury options though they're less established than Thailand. For a 7-day Luxury trip: 2 nights Hanoi (Sofitel Legend Metropole — iconic colonial-era property in the Old Quarter), 2 nights Ha Long Bay (high-end overnight cruises like Paradise Elegance or Heritage Bình Chuẩn), 3 nights Da Nang or Hoi An (Four Seasons Resort The Nam Hai at China Beach, or InterContinental Danang Sun Peninsula Resort — both world-class). For 10+ days, add Phu Quoc (JW Marriott Phu Quoc, Six Senses Ninh Van Bay near Nha Trang) for luxury beach. Caveat: confirm property availability before booking, this is a researched recommendation not first-hand.
+
 SKIP / DE-PRIORITIZE:
 - Ha Long Bay day cruise from Hanoi — fine to skip if exhausted from the overnight cruise option
 - Sapa — only worth it with 4+ days, mainly for hiking
