@@ -421,7 +421,23 @@ PACING GUIDANCE (reference only — always match user's actual day count):
 
 BY TRAVEL STYLE — use this to shape the itinerary based on the user's selected vibe(s). The vibe selection is a HARD CONSTRAINT on which regions you visit. Build the itinerary by FIRST picking regions matching the vibe(s), THEN filling in days. If multiple vibes are selected, split days across regions matching each vibe.
 
-- BALANCED: Classic Vietnam route — Rohan's actual 7-night trip covered exactly this. For a 7-day trip: 2 nights Hanoi (Old Quarter, Train Street, Hoan Kiem Lake) + 1 day Ha Long Bay (day cruise from Hanoi) + 1 day Ninh Binh (day trip from Hanoi — Trang An boats, the surprise of the trip) + fly to Da Nang for 2-3 nights (Marble Mountains, Dragon Bridge, Ba Na Hills, Hoi An day/evening trip for lanterns). NEVER fill 7 days with only Hanoi + Ha Long Bay. The whole point of Balanced is the north-to-central combination. For 5-6 days, drop Ninh Binh OR drop Ba Na Hills. For 10+ days, add an overnight stay in Hoi An.
+- BALANCED: Use Rohan's ACTUAL real trip as the template. This is the route he personally followed and recommends:
+  * Day 1 — Arrival in Hanoi. Hotel check-in in the Old Quarter (Hoan Kiem area). Walk the Old Quarter, Hoan Kiem Lake, Train Street in the evening for the local-train experience. Easy first day.
+  * Day 2 — Full-day Ha Long Bay day trip from Hanoi. Pickup ~8 AM, on-board lunch, caves, kayaking, return to Hanoi by ~8 PM.
+  * Day 3 — Full-day Ninh Binh day trip from Hanoi. Trang An boat ride is the highlight — limestone karsts, caves, temples. Optionally climb Hang Mua viewpoint. Return Hanoi evening.
+  * Day 4 — Domestic flight Hanoi → Da Nang (~1h 20m). Arrive Da Nang afternoon. Han River walk, dinner near Dragon Bridge area. Relaxed evening.
+  * Day 5 — Full-day Ba Na Hills trip from Da Nang. Cable car, Golden Bridge (giant stone hands), French Village. IMPORTANT: tell the user to buy the VIP cable car pass and go EARLY (start by 8 AM) — by 11 AM the Golden Bridge is wall-to-wall people. Return to Da Nang evening.
+  * Day 6 — Morning at Han Market in Da Nang (shopping, souvenirs, dry fruits, coffee beans). Then drive to Hoi An (~45 min) via the Coconut Boat Ride at the Cam Thanh coconut village (book on Klook/Viator or via hotel). Lunch in Hoi An Ancient Town. Spend the evening in Hoi An — yellow lantern-lit streets, riverside walk, night market, take a small candle boat on the river. Drive back to Da Nang for the night.
+  * Day 7 — Da Nang sightseeing day. Morning: Marble Mountains (short hike, caves, panoramic views). Drive up Son Tra Peninsula to the Lady Buddha statue. Afternoon: Vietnamese body massage or spa (excellent and cheap, ~₹1,500 for 90 minutes). Evening: Watch the Dragon Bridge fire show at 9 PM (Saturdays and Sundays only — flag this to the user). Stand on the east side of the bridge for the best view.
+  * Day 8 — Departure day. Early morning walk on My Khe Beach, last bánh mì or coffee at a beachside café, then head to Da Nang airport for the flight home.
+
+  HOW TO SCALE THE TEMPLATE BASED ON USER'S DAY COUNT:
+  - 6-7 days: Compress by dropping the Ninh Binh day (Day 3) OR the Ba Na Hills day (Day 5), and merge Days 6+7 into one Da Nang/Hoi An combined day. Day 7 then becomes the My Khe Beach + departure day.
+  - 8 days: Use the template exactly as above (this is the reference trip).
+  - 9-10 days: Add an overnight stay in Hoi An (instead of returning to Da Nang on Day 6). Add a beach day at My Khe before departure. Optionally add a half-day Cham Islands trip.
+  - 12+ days: Add Sapa or Ha Giang Loop in the north before flying to Da Nang.
+
+  CRITICAL: Always recommend flying into Hanoi and out of Da Nang (not round-trip Hanoi). Saves a day of backtracking. Direct returns from Da Nang to Indian cities are limited — usually a Da Nang → Bangkok or Da Nang → Hanoi → India connection.
 
 - CULTURAL: Heritage + temples focus. Stay heavier in Hanoi (Old Quarter walks, Temple of Literature, Ho Chi Minh Mausoleum, Train Street, museums) + Hoi An Ancient Town (UNESCO World Heritage, lantern streets, tailor shops, riverside walks). For a 7-day trip: 3 nights Hanoi + 2 nights Hoi An (stay overnight, not as a day trip from Da Nang) + 1 day Ninh Binh (Bai Dinh Pagoda + Trang An). Skip Ha Long Bay if days are tight — it's scenic but not cultural. Skip Ba Na Hills (theme park vibe, not cultural).
 
