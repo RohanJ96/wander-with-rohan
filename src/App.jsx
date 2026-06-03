@@ -770,6 +770,7 @@ export default function Site() {
       </main>
 
       <Footer />
+      <Analytics />
     </div>
     </>
   );
