@@ -419,34 +419,6 @@ PACING GUIDANCE (reference only — always match user's actual day count):
 - 10–12 days: North + Central — Hanoi, Ha Long Bay, Ninh Binh, Da Nang, Hoi An
 - 14+ days: Full north-to-south — Hanoi, Ha Long Bay, Ha Giang Loop, Da Nang, Hoi An, Ho Chi Minh City
 
-BY TRAVEL STYLE — use this to shape the itinerary based on the user's selected vibe(s). The vibe selection is a HARD CONSTRAINT on which regions you visit. Build the itinerary by FIRST picking regions matching the vibe(s), THEN filling in days. If multiple vibes are selected, split days across regions matching each vibe.
-
-- BALANCED: Use Rohan's ACTUAL real trip as the template. This is the route he personally followed and recommends:
-  * Day 1 — Arrival in Hanoi. Hotel check-in in the Old Quarter (Hoan Kiem area). Walk the Old Quarter, Hoan Kiem Lake, Train Street in the evening for the local-train experience. Easy first day.
-  * Day 2 — Full-day Ha Long Bay day trip from Hanoi. Pickup ~8 AM, on-board lunch, caves, kayaking, return to Hanoi by ~8 PM.
-  * Day 3 — Full-day Ninh Binh day trip from Hanoi. Trang An boat ride is the highlight — limestone karsts, caves, temples. Optionally climb Hang Mua viewpoint. Return Hanoi evening.
-  * Day 4 — Domestic flight Hanoi → Da Nang (~1h 20m). Arrive Da Nang afternoon. Han River walk, dinner near Dragon Bridge area. Relaxed evening.
-  * Day 5 — Full-day Ba Na Hills trip from Da Nang. Cable car, Golden Bridge (giant stone hands), French Village. IMPORTANT: tell the user to buy the VIP cable car pass and go EARLY (start by 8 AM) — by 11 AM the Golden Bridge is wall-to-wall people. Return to Da Nang evening.
-  * Day 6 — Morning at Han Market in Da Nang (shopping, souvenirs, dry fruits, coffee beans). Then drive to Hoi An (~45 min) via the Coconut Boat Ride at the Cam Thanh coconut village (book on Klook/Viator or via hotel). Lunch in Hoi An Ancient Town. Spend the evening in Hoi An — yellow lantern-lit streets, riverside walk, night market, take a small candle boat on the river. Drive back to Da Nang for the night.
-  * Day 7 — Da Nang sightseeing day. Morning: Marble Mountains (short hike, caves, panoramic views). Drive up Son Tra Peninsula to the Lady Buddha statue. Afternoon: Vietnamese body massage or spa (excellent and cheap, ~₹1,500 for 90 minutes). Evening: Watch the Dragon Bridge fire show at 9 PM (Saturdays and Sundays only — flag this to the user). Stand on the east side of the bridge for the best view.
-  * Day 8 — Departure day. Early morning walk on My Khe Beach, last bánh mì or coffee at a beachside café, then head to Da Nang airport for the flight home.
-
-  HOW TO SCALE THE TEMPLATE BASED ON USER'S DAY COUNT:
-  - 6-7 days: Compress by dropping the Ninh Binh day (Day 3) OR the Ba Na Hills day (Day 5), and merge Days 6+7 into one Da Nang/Hoi An combined day. Day 7 then becomes the My Khe Beach + departure day.
-  - 8 days: Use the template exactly as above (this is the reference trip).
-  - 9-10 days: Add an overnight stay in Hoi An (instead of returning to Da Nang on Day 6). Add a beach day at My Khe before departure. Optionally add a half-day Cham Islands trip.
-  - 12+ days: Add Sapa or Ha Giang Loop in the north before flying to Da Nang.
-
-  CRITICAL: Always recommend flying into Hanoi and out of Da Nang (not round-trip Hanoi). Saves a day of backtracking. Direct returns from Da Nang to Indian cities are limited — usually a Da Nang → Bangkok or Da Nang → Hanoi → India connection.
-
-- CULTURAL: Heritage + temples focus. Stay heavier in Hanoi (Old Quarter walks, Temple of Literature, Ho Chi Minh Mausoleum, Train Street, museums) + Hoi An Ancient Town (UNESCO World Heritage, lantern streets, tailor shops, riverside walks). For a 7-day trip: 3 nights Hanoi + 2 nights Hoi An (stay overnight, not as a day trip from Da Nang) + 1 day Ninh Binh (Bai Dinh Pagoda + Trang An). Skip Ha Long Bay if days are tight — it's scenic but not cultural. Skip Ba Na Hills (theme park vibe, not cultural).
-
-- RELAXED: Slow Vietnam — fewer cities, more time per place. For a 7-day trip: 2 nights Hanoi (only enough to soak in the Old Quarter vibe) + 2 nights Ha Long Bay (overnight cruise, not day trip — let the bay's slowness work on you) + 3 nights in Hoi An or Da Nang's My Khe Beach (long mornings, riverside coffees, beach time). NEVER pack this with day trips and tours — the whole vibe is anti-rushing.
-
-- ADVENTUROUS: Note — Rohan hasn't personally tested adventure circuits in Vietnam yet. Based on research: north Vietnam offers the best adventure — Ha Giang Loop (motorbike, 3-4 days, needs riding experience), Sapa (trekking, 3+ days), or Cat Ba Island (rock climbing, kayaking near Ha Long Bay). For a 7-day Adventurous trip: 1 night Hanoi arrival + 4-5 days Ha Giang Loop (or Sapa trekking if motorbike isn't an option) + 1 night back in Hanoi. If user is a confident motorbike rider, recommend Ha Giang. If not, recommend Sapa with a guided trek. Caveat: confirm logistics before booking, this is a researched recommendation not first-hand.
-
-- LUXURY: Note — Rohan hasn't personally tested luxury circuits in Vietnam yet. Based on research: Vietnam has strong luxury options though they're less established than Thailand. For a 7-day Luxury trip: 2 nights Hanoi (Sofitel Legend Metropole — iconic colonial-era property in the Old Quarter), 2 nights Ha Long Bay (high-end overnight cruises like Paradise Elegance or Heritage Bình Chuẩn), 3 nights Da Nang or Hoi An (Four Seasons Resort The Nam Hai at China Beach, or InterContinental Danang Sun Peninsula Resort — both world-class). For 10+ days, add Phu Quoc (JW Marriott Phu Quoc, Six Senses Ninh Van Bay near Nha Trang) for luxury beach. Caveat: confirm property availability before booking, this is a researched recommendation not first-hand.
-
 SKIP / DE-PRIORITIZE:
 - Ha Long Bay day cruise from Hanoi — fine to skip if exhausted from the overnight cruise option
 - Sapa — only worth it with 4+ days, mainly for hiking
@@ -507,16 +479,14 @@ Don't try north + central + south in under 12 days. Pick two regions and go deep
     flag: "🇯🇵",
     tagline: "Old shrines, neon nights",
     image: "linear-gradient(135deg, #e8b4c8 0%, #c98aa8 50%, #8c5878 100%)",
-    notes: `ROHAN'S NOTE: I haven't personally been to Japan yet — these notes are based on detailed research, traveller blogs, and trusted sources. I'll refine them with first-hand opinions after I visit. Until then, treat these notes as a well-researched starting point, not personal experience.
-
-WHEN TO GO:
+    notes: `WHEN TO GO:
 - Best window: Cherry Blossom season in April. Apr–May is the prime time overall.
 - Avoid Jun–Aug (hot, humid, rainy).
 - Autumn (Sep–Nov) is also beautiful — fewer crowds, foliage colours.
 - Winter (Dec–Mar) for snow experiences, onsen, and Niseko-style skiing.
 
 ROHAN'S REFERENCE HIGHLIGHTS (use selectively based on user's actual day count — do NOT copy this as a fixed itinerary):
-For first-time visitors: Tokyo + Kyoto + Osaka is the classic trio. The route can be reversed if cheaper flights into Tokyo. Many travellers recommend entering via Osaka and exiting via Tokyo, since you usually want to end the trip in Tokyo for shopping and the airport's international connections.
+For first-time visitors: Tokyo + Kyoto + Osaka is the classic trio. The route can be reversed if cheaper flights into Tokyo. I personally enter via Osaka and exit via Tokyo.
 
 Osaka highlights: Dotonbori, Osaka Castle, Umeda Sky, Tsutenkaku, HEP Five ferris wheel, shopping, Universal Studios Japan, Nara day trip (feed the deer).
 Kyoto highlights: Arashiyama (Sagano Romantic Train, Bamboo Grove), Kiyomizu-dera, Kinkaku-ji (Golden Pavilion), Fushimi Inari.
@@ -589,6 +559,32 @@ PACING GUIDANCE (reference only — always match user's actual day count):
 - 5–6 days: Dubai (3 days) + Abu Dhabi (2-3 days, either as day trips or staying over)
 - 7+ days: Dubai + Abu Dhabi at a relaxed pace, with extra beach time and optional theme parks
 
+BY TRAVEL STYLE — use this to shape the itinerary based on the user's selected vibe(s). UAE has only two main cities (Dubai + Abu Dhabi), so the vibe shapes WHAT you do within them, not where you go. If multiple vibes are selected, blend the activities across days.
+
+- BALANCED: Reel-perfect first-timer trip Rohan personally recommends. For a 6-day trip:
+  * Day 1 — Arrival in Dubai + check-in (Bur Dubai or Downtown). Light evening: Dubai Creek walk + dinner. Easy first day.
+  * Day 2 — Morning: Museum of the Future (book the first slot, ~9 AM, 1.5-2 hours). Afternoon: Dubai Mall. Sunset: Burj Khalifa "At the Top" (book the sunset slot at ticket.atthetop.ae). Stay for the Dubai Fountain show right outside the mall — runs every 30 minutes after dusk. Dinner near the fountain.
+  * Day 3 — Atlantis The Palm day. Choose your style: full-day Aquaventure waterpark for thrill-seekers, or a half-day photo stop at the Palm + Lost Chambers Aquarium for a lighter visit. Evening: walk along Dubai Marina + dinner at the marina or JBR walk.
+  * Day 4 — Desert Safari day. Morning: rest or visit the Gold Souk and Grand Souk in Bur Dubai for shopping (dates, dry fruits, spices, souvenirs, gold — look for the world's heaviest gold ring nearby). Afternoon-evening: Desert Safari (4-5 hour tour) with dune bashing, Bedouin camp dinner, and the cultural show. Returns ~10 PM.
+  * Day 5 — Abu Dhabi day. Morning: drive to Abu Dhabi (~1.5 hours). Visit Sheikh Zayed Grand Mosque (free entry, scarf required for women — bring your own). Lunch in Abu Dhabi. Afternoon: optionally visit BAPS Hindu Mandir for the evening aarti if you're interested. Return to Dubai by late evening.
+  * Day 6 — Final day in Dubai. Morning/afternoon: AYA Universe (immersive indoor digital-art experience, ~2 hours). Last-minute coffee or souvenir shopping. Evening: head to Dubai airport for departure.
+
+  HOW TO SCALE THE TEMPLATE BASED ON USER'S DAY COUNT:
+  - 3-4 days: Drop AYA Universe and the Atlantis half-day; compress to Dubai-only with Sheikh Zayed as a half-day rather than full Abu Dhabi trip.
+  - 5 days: Drop either the Atlantis day (Day 3) OR the dedicated AYA Universe morning on Day 6 (move AYA Universe to Day 5 evening after Abu Dhabi return).
+  - 6 days: Use the template exactly as above (this is the reference trip).
+  - 7-8 days: Add a Dhow Cruise evening in Abu Dhabi (stay overnight in Abu Dhabi on Day 5), and add Dubai Frame or Global Village (seasonal, late Oct - early May) as an extra day's activity.
+
+  CRITICAL: Recommend the user pre-book a private cab or driver-for-the-day for the Abu Dhabi visit (~₹6,000-8,000 in AED) — the inter-city return is otherwise tedious by public transport.
+
+- RELAXED: Beach-and-lifestyle focused, slow pace. Stay near Palm Jumeirah, JBR, or Jumeirah Beach Residence. For 5 days: Day 1 arrival + beach evening; Day 2 Atlantis The Palm — Aquaventure waterpark + Lost Chambers Aquarium, sunset at the Palm; Day 3 Jumeirah Beach + Dubai Marina walk + Madinat Jumeirah souk; Day 4 Sheikh Zayed Grand Mosque (Abu Dhabi morning) + return to Dubai for spa/pool afternoon; Day 5 free morning + departure. NEVER pack this with desert safari hassles, theme parks, or back-to-back attractions — the whole point is slow.
+
+- CULTURAL: Heritage + history focus. For 5 days: Day 1 arrival + Bur Dubai walk; Day 2 Al Fahidi Historical Neighbourhood + Dubai Museum + Gold Souk + Spice Souk + Dubai Frame (afternoon); Day 3 Sheikh Zayed Grand Mosque (Abu Dhabi, full morning) + Qasr Al Watan (Presidential Palace) + BAPS Hindu Mandir evening aarti; Day 4 Museum of the Future (Dubai) + Etihad Museum + traditional Emirati lunch in Al Seef; Day 5 final souk wander + departure. NEVER include theme parks or Atlantis — they don't match the vibe.
+
+- ADVENTUROUS: Action-packed with thrill activities. For 5 days: Day 1 arrival + light walk; Day 2 Desert Safari (full evening) — dune bashing, sandboarding, quad biking, BBQ camp; Day 3 Aquaventure Waterpark at Atlantis (full day, world-class slides) OR Yas Waterworld in Abu Dhabi; Day 4 Ferrari World Abu Dhabi (world's fastest roller coaster Formula Rossa, plus other rides); Day 5 AYA Universe (immersive indoor adventure) or skydiving over the Palm if budget allows, then departure. NEVER fill with souk walks or slow cultural visits.
+
+- LUXURY: Premium experiences and signature stays. For a 5-day trip: Day 1 arrival at a luxury hotel — Atlantis The Palm (~₹50,000+/night), Burj Al Arab (~₹1.5-3L/night), Bvlgari Resort, or Atlantis The Royal; Day 2 high tea at the Burj Al Arab (~₹15,000/person) + private Burj Khalifa "At The Top SKY" tier + Dubai Fountain table reservation at a top-tier restaurant; Day 3 private Desert Safari with vintage Land Rover + private Bedouin camp dinner (Platinum Heritage runs the gold-standard version, ~₹15,000+/person); Day 4 helicopter tour over Dubai (~₹15,000-25,000 for 15-min) + Sheikh Zayed Grand Mosque + Emirates Palace afternoon high tea in Abu Dhabi; Day 5 private yacht charter to the Palm or final spa morning + departure. NEVER include budget shopping souks, group day tours, or backpacker hostels — they break the vibe. Activity guidance: for every group activity, suggest the private alternative (private safari over group, helicopter over the metro, yacht over the dhow cruise). Suggest specific named luxury hotels and let the user pick based on budget.
+
 SKIP / DE-PRIORITIZE:
 - The UAE packs a lot of paid attractions, and tickets add up fast. Pick the ones that genuinely interest you rather than trying to do everything — a family doing Burj Khalifa, Museum of the Future, Global Village, a Desert Safari, and Ferrari World will spend a significant amount on tickets alone.
 - If you are not a theme-park person, the waterparks (Yas Waterworld) and Ferrari World are easy to skip.
@@ -633,92 +629,55 @@ The UAE is easy and comfortable to travel — modern, safe, and well organised, 
     flag: "🇹🇭",
     tagline: "Temples, islands, street food",
     image: "linear-gradient(135deg, #6ec5b8 0%, #4a9e92 50%, #2d6b62 100%)",
-    notes: `ROHAN'S NOTE: I haven't personally been to Thailand yet — this destination is based on detailed research, traveller blogs, and conversations with a travel agent who specialises in Southeast Asia. I'll refine this with first-hand opinions after I visit. Until then, treat these notes as a well-researched starting point, not personal experience.
-
-WHEN TO GO:
+    notes: `WHEN TO GO:
 - Best time to visit is November to February (cooler, drier weather).
-- April brings Songkran (Thai new year, ~April 13-15) — the famous water festival. Bangkok and Chiang Mai are the best places to experience it, but be ready for 3 days of city-wide water fights. Plan around it, not through it.
 - Summer (March to June) is hot.
 - Rainy season runs June to October.
 
-REGIONS AT A GLANCE (use these as building blocks, not a fixed route):
-- BANGKOK (Central): Grand Palace, Wat Arun, Chatuchak Market, Chinatown street food, Chao Phraya dinner cruise, rooftop bars, nightlife at Nana Plaza.
-- PATTAYA (Central coast, 2 hrs from Bangkok): Sanctuary of Truth, Walking Street nightlife, Coral Island half-day trip, cheap massages, Pattaya Night Market. Easy, cheap, lively — good extension from Bangkok.
-- CHIANG MAI (North): Old City temples, Sunday Night Market, ethical elephant sanctuaries (NOT riding camps), Thai cooking classes, Doi Suthep, mountain trekking. Cultural heart of Thailand.
-- CHIANG RAI (Far North): White Temple (Wat Rong Khun), Blue Temple, Golden Triangle, slower pace than Chiang Mai. Best as a 1-2 night extension.
-- AYUTTHAYA (Central, day trip from Bangkok): Ancient temple ruins, UNESCO site.
-- KRABI / AO NANG (South, Andaman): Ao Nang Beach (best base), 4 Islands tour, Phi Phi day trip, Railay rock climbing, Tiger Cave Temple, Emerald Pool. Slower, more scenic than Phuket.
-- PHUKET (South, Andaman): Big Buddha, Patong nightlife, Kata/Karon beaches, luxury resorts, Phi Phi snorkelling, Muay Thai shows. Busier than Krabi.
-- KOH SAMUI / KOH PHANGAN / KOH TAO (South, Gulf): Diving (Koh Tao is world-class and cheap to certify), Full Moon Party (Koh Phangan), luxury resorts (Koh Samui). More remote — needs flights or long ferries.
-- KHAO SOK NATIONAL PARK: Jungle, rainforest lake, floating raft houses — for the adventurous traveller who wants a break from beaches and cities.
+ROHAN'S REFERENCE HIGHLIGHTS (use selectively based on user's actual day count — do NOT copy this as a fixed itinerary):
+A common route covers Bangkok, Pattaya, Phuket and Krabi. North-to-south flows well, but it's easy to do just one or two areas on a shorter trip.
 
-BY TRAVEL STYLE — use this to shape the itinerary based on the user's selected vibe(s). The vibe selection is a HARD CONSTRAINT on which regions you visit, not a flavour preference. Build the itinerary by FIRST picking regions matching the vibe(s), THEN filling in days. Bangkok is the usual arrival airport but DO NOT default to "Bangkok + nearby" if the vibe doesn't call for it — many users will fly straight onward the same day or the next morning. If multiple vibes are selected (e.g. "Relaxed + Cultural"), split days across regions matching each vibe.
+Pattaya highlights: Sanctuary of Truth, Art in Paradise, Mini Siam, Pattaya Beach (best after 4:30 PM), cheap Thai massage (~Rs 600-700 per hour), Walking Street for nightlife, Coral Island half-day trip, Tiger Park, Pattaya Night Market.
+Bangkok highlights: Sea Life Ocean World, Madame Tussauds, Chao Phraya Dinner Cruise, Safari World and Marine Park (day trip), Grand Palace (no shorts allowed), shopping at Indra Market or Chatuchak Market, nightlife at Nana Plaza.
+Phuket highlights: Big Buddha, Phuket Town, beaches — Kata, Karon, and Patong (Patong has Bangla Market nearby for the evening), Phi Phi Island day trip with snorkelling, optional Muay Thai boxing show.
+Krabi highlights: Ao Nang Beach (best area to stay), 4 Islands day tour with snorkelling, Tiger Cave Temple, hot springs, the Emerald Pool, local markets.
 
-- RELAXED: South Andaman coast — Krabi (Ao Nang) is the primary base + a Phi Phi or 4-Islands boat day. For a 7-day trip: max 1 night Bangkok touchdown (arrival evening), then 5-6 nights Krabi. Slow beach mornings, sunset drinks, one optional day trip. For longer trips, add Koh Lanta for even slower pace. NEVER include Pattaya or Chiang Mai unless the user also picks Cultural.
-
-- ADVENTUROUS: Gulf islands are the primary base — Koh Samui (arrival airport) + Koh Tao (the diving / snorkelling / kayaking island, ~2 hr ferry from Koh Samui) + optionally Koh Phangan. For a 7-day trip: max 1 night Bangkok touchdown, then immediately fly to Koh Samui, then split 3-4 nights between Koh Samui and Koh Tao. NEVER fill an Adventurous trip with Bangkok temples or Krabi beach days — those are Cultural / Relaxed. Adventure activities to include: scuba diving (Koh Tao is world-class and the cheapest place on earth to certify), snorkelling, kayaking, rock climbing (Railay if doing Krabi), jungle trekking (Khao Sok). For longer trips (10+ days) ADD Khao Sok National Park (jungle lake, floating bungalows) for a few nights. Chiang Mai is ONLY for Adventurous if the user wants mountain trekking — otherwise stay south.
-
-- LUXURY: Premium experiences over checkbox sightseeing. Regions: Phuket (Banyan Tree, Trisara, Amanpuri area on the Naithon/Layan/Kamala coast — NOT Patong) + Koh Samui (Bophut/Chaweng Noi private villas, Four Seasons, W Retreat) + optionally Bangkok (max 1-2 nights at Mandarin Oriental, Peninsula, Four Seasons, or Capella). For a 7-day trip: 1-2 nights Bangkok arrival + 3-4 nights Phuket luxury resort + 2-3 nights Koh Samui. NEVER include Pattaya, Patong, group day tours, street-food-stall recommendations, or budget hostels — they break the vibe.
-
-  Activity guidance for LUXURY: For every typical group activity, suggest the PRIVATE alternative. Instead of "4 Islands group snorkel tour" suggest "private speedboat charter to Phi Phi (your concierge can arrange, ~₹50,000-80,000 half-day)." Instead of "Muay Thai show in Patong" suggest "private Muay Thai class at the resort." Instead of "street food at Wat Arun" suggest "lunch at Sala Rim Naam (Mandarin Oriental's Thai restaurant) or Le Du, Bangkok's Michelin-starred Thai restaurant." Spa treatments, fine dining, sunset cocktails at named rooftop bars (Sirocco at Lebua, Vertigo at Banyan Tree, Octave at Marriott), private boat days, helicopter transfers between islands.
-
-  Pricing context (mention to set user expectations): Banyan Tree Phuket ~₹35,000-50,000/night. Trisara, Amanpuri ~₹80,000-2L/night. Four Seasons Koh Samui ~₹40,000-70,000/night. Mandarin Oriental Bangkok ~₹40,000-60,000/night. Don't quote exact prices for current bookings — suggest the user check current rates or refine with Rohan on WhatsApp.
-
-  Voice for LUXURY: Slow, considered, "white-glove" language. Phrases like "let your concierge handle the boat", "private sunset dinner on the beach", "ask the spa for the signature treatment". This is a high-value client — the writing should respect that.
-
-- CULTURAL: North-heavy route — Chiang Mai (Old City temples, Sunday Night Market, cooking class, Doi Suthep) + Bangkok (Grand Palace, Wat Arun, Wat Pho, Chao Phraya cruise, Chinatown food walk). For a 7-day trip: 3 nights Bangkok + 3-4 nights Chiang Mai. For longer trips, add Ayutthaya day trip from Bangkok and Chiang Rai (White Temple, Blue Temple). If timing aligns with mid-April, include Songkran. NEVER include Pattaya, luxury resorts, or beach islands — they don't match the vibe.
-
-- BALANCED: Classic first-timer mix — Bangkok (2-3 nights for temples, food, Grand Palace) + Krabi or Phuket (3-4 nights for beaches and Phi Phi). For 8+ day trips, add Chiang Mai (2-3 nights for cultural depth and cooking class). This is the safest default — covers city, culture, and beach in one trip.
-
-ROHAN'S REFERENCE HIGHLIGHTS (cross-check by region; only include what fits the user's selected vibe(s) and day count):
-Pattaya highlights: Sanctuary of Truth, Pattaya Beach (best after 4:30 PM), cheap Thai massage (~Rs 600-700/hour), Walking Street, Coral Island half-day, Tiger Park, Pattaya Night Market.
-Bangkok highlights: Grand Palace (mornings, no shorts), Wat Arun, Wat Pho, Chao Phraya Dinner Cruise, Chatuchak Market (weekends only), Chinatown food walk, Sea Life Ocean World, Nana Plaza nightlife, rooftop bars (Vertigo, Sky Bar).
-Chiang Mai highlights: Old City temple loop, Sunday Night Market, Doi Suthep temple, Thai cooking class, ethical elephant sanctuary (Elephant Nature Park is the well-known ethical one — avoid camps that offer riding).
-Chiang Rai highlights: White Temple (Wat Rong Khun), Blue Temple (Wat Rong Suea Ten), Black House, Golden Triangle viewpoint.
-Krabi/Ao Nang highlights: Ao Nang Beach base, 4 Islands day tour with snorkelling, Phi Phi day trip, Railay Beach (rock climbing), Tiger Cave Temple, Emerald Pool, local night market.
-Phuket highlights: Big Buddha, Patong/Kata/Karon beaches, Phi Phi snorkelling day trip, Old Phuket Town for cafes, optional Muay Thai show.
-Koh Samui / Tao / Phangan highlights: Koh Tao for diving (Open Water certification ~Rs 9,000-11,000), Koh Phangan for Full Moon Party (check dates), Koh Samui for luxury resorts and Big Buddha temple.
+PACING GUIDANCE (reference only — always match user's actual day count):
+- 4–5 days: Pick ONE base — Bangkok + Pattaya, OR Phuket + Krabi. Don't try to cover the whole country.
+- 6–8 days: Bangkok + Pattaya + Phuket, OR Phuket + Krabi + Bangkok
+- 9–12 days: Full route — Bangkok, Pattaya, Phuket, and Krabi at a comfortable pace
 
 SKIP / DE-PRIORITIZE:
-- Madame Tussauds — skip after Sea Life Ocean World, especially if you've visited a Tussauds before.
-- Mini Siam — touristy, low value.
-- Elephant riding camps — ethical concerns; recommend Elephant Nature Park or similar sanctuary instead.
-- Tiger selfies — most "tiger temples/parks" use sedated animals. Avoid.
-- Scam to watch out for: strangers approaching you on the street to chat, then steering you into buying products for them from a 7-Eleven. Politely decline.
-- Tuk-tuk scams — they'll offer cheap rides that end at gem stores or tailor shops where they get commission. Use Grab instead.
+- Madame Tussauds can be skipped after Sea Life Ocean World, especially if you've visited a Tussauds before.
+- Scam to watch out for: strangers approaching you on the street to chat, then steering you into buying products for them from a 7-Eleven. Politely avoid these interactions.
 
 FOOD — must-eats:
-- Don't miss: Pad Thai, Tom Yum soup, Green Curry (Gaeng Keow Wan), Som Tum (papaya salad), Massaman Curry, Mango Sticky Rice (best in season — March-May).
-- For Indian vegetarian travellers: most curries can be ordered without meat — ask "jay" (no meat) or "mai sai nuea sat" (no animal). Many places in Bangkok and Chiang Mai have explicit vegetarian options. Pad Thai with egg is the safest starter dish.
-- For chicken-only eaters: "gai" means chicken — ask for "Pad Thai gai" or "Tom Yum gai". Most dishes have a chicken variant.
+- Don't miss Thai food: Pad Thai, Tom Yum soup, Green Curry (Gaeng Keow Wan), Som Tum (papaya salad), and Mango Sticky Rice.
 
 EXPERIENCES WORTH IT:
-- Thai cooking class in Chiang Mai (half-day, ~Rs 2,000 — best souvenir of the trip).
-- 4 Islands or Phi Phi snorkelling day trip from Krabi.
-- Chao Phraya dinner cruise in Bangkok (touristy but genuinely fun).
-- Grand Palace in Bangkok — go at opening (8:30 AM) to beat heat and crowds.
-- Songkran (water festival, mid-April) if your dates align — once-in-a-lifetime.
+- Sea Life Ocean World in Bangkok.
+- A Chao Phraya dinner cruise in Bangkok.
+- Phi Phi Island and 4 Islands snorkelling day trips.
+- The Grand Palace in Bangkok — go in the morning.
 
 VISA (for Indian travelers):
-- IMPORTANT — RULE CHANGE (May 2026): The Thai Cabinet approved a major visa policy revision on 19 May 2026, scrapping the previous 60-day visa-free entry that India had enjoyed. Under the new framework, Indian travellers are moved to the Visa on Arrival (VoA) category, which permits stays of up to 15 days. This is suitable for short trips but not for extended holidays. The change takes effect 15 days after publication in the Royal Gazette — exact implementation timing is being finalised at the time of writing.
-- BEFORE BOOKING: Verify the current rules with the Royal Thai Embassy in India or your travel agent. Policy is evolving and authoritative sources should be checked.
-- TDAC (separate from visa): All travellers must register on the Thailand Digital Arrival Card (https://tdac.immigration.go.th/arrival-card/#/home) before arrival, regardless of visa type. Fill in basic details (hotel, flight). Can be done 3-4 days before travel; received immediately.
+- Indians get visa on arrival. Before travelling, register on the Thailand Digital Arrival Card site (https://tdac.immigration.go.th/arrival-card/#/home) and fill in basic details (hotel, flight).
+- This can be done 3-4 days before travel and is received immediately. The visa is free, with stays of up to 60 days.
 
 INSURANCE:
-- Buy travel insurance via Policybazaar or a similar site — compare options.
+- Buy travel insurance via Policybazaar or a similar site — compare options and pick what fits.
 
 LOGISTICS / FLIGHTS:
-- Flights from India go to Bangkok or Phuket. Cheapest fares are usually from Delhi, Kolkata, Mumbai, Ahmedabad, Hyderabad, and Lucknow (roughly Rs 12,000-16,000 round trip). These often exclude check-in baggage (add Rs 5,000-10,000).
-- Domestic flights (AirAsia, Thai Lion Air) are the best way to move between Bangkok, Chiang Mai and Phuket/Krabi. Buses are cheaper but eat into your trip. Bangkok to Chiang Mai is ~1.5 hours by air vs 10+ hours by bus.
-- Bring an International Driving Permit from India (a MUST) for renting scooters — around Rs 600-700/day.
-- Currency: Thai Baht, ~1 THB = 2.96 INR. Convert in India or carry USD and exchange in Thailand.
-- SIM: At airport (~Rs 1,100), cheaper at 7-Eleven, or Klook eSIM from ~Rs 50.
-- Bangkok hotel areas: Nana (metro-connected), Sukhumvit, Ekkamai. A 4-star with breakfast is solid; solo travellers can find hostels around Rs 800-1,000.
-- Getting around: in cities use Grab. Between cities, domestic flights for long hops, buses for short ones (Bangkok-Pattaya ~Rs 400, 2.5 hrs; Phuket-Krabi ~Rs 700-800, 3 hrs).
-- Download Grab, Google Translate, offline Google Maps before landing.
+- Flights from India go to Bangkok or Phuket. Cheapest fares are usually from Delhi, Kolkata, Mumbai, Ahmedabad, Hyderabad, and Lucknow (roughly Rs 12,000-16,000 round trip). These often exclude check-in baggage, which can add Rs 5,000-10,000.
+- Bring an International Driving Permit from India (a MUST) if you want to rent a scooter in Thailand — around Rs 600-700 per day.
+- Currency is the Thai Baht, roughly 1 THB = 2.96 INR. Convert in India, or carry USD and exchange it for Baht locally in Thailand.
+- SIM cards are available at the airport (~Rs 1,100). Cheaper SIMs can be bought locally at stores like 7-Eleven; for the cheapest option, check Klook for an eSIM (from ~Rs 50).
+- Bangkok hotel areas worth considering: Nana (close to the metro), Sukhumvit, and Ekkamai/Makkasan. A 4-star hotel with breakfast is a good pick; solo travellers can find hostels around Rs 800-1,000.
+- Getting around: in Pattaya, shared cars (~Rs 150) and the Grab app for taxis. Between cities, buses are cheap (Bangkok to Pattaya ~Rs 400, 2.5-3 hours; Phuket to Krabi ~Rs 700-800, ~3 hours). Bangkok to Phuket is a 12-13 hour bus (~Rs 2,000) or a Rs 5,000-6,000 flight (without baggage).
+- Download Grab, Google Translate, and offline Google Maps before landing.
 
 VIBE / PACING:
-Thailand rewards a focused trip more than a comprehensive one. The country is bigger than it looks — chasing temples in Bangkok, culture in Chiang Mai, and beaches in the south all in one week will leave you exhausted and underwhelmed. For first-timers with 7 days, pick one of: city + south (Bangkok + Krabi/Phuket) OR north + south (Chiang Mai + Krabi). For 10-14 days the classic Bangkok > Chiang Mai > Phuket/Krabi triangle works beautifully. Anything longer can add Koh Samui/Tao for diving, or Khao Sok for jungle.`,
+Thailand rewards a relaxed pace — it's easy to over-pack an itinerary chasing temples, islands, and nightlife all at once. Bangkok is fast and full-on; the southern islands (Phuket, Krabi) are where you slow down. A first-time trip works best as either a city-and-beach combo or a focused island stretch, rather than trying to see everything.`,
   },
 ];
 
@@ -836,10 +795,7 @@ function ItineraryTab() {
   const [selectedDest, setSelectedDest] = useState(null);
   const [days, setDays] = useState("");
   const [travelers, setTravelers] = useState("2");
-  const [vibes, setVibes] = useState(["Balanced"]);
-  const vibeLabel = vibes.length > 0 ? vibes.join(" + ") : "Balanced";
-  const toggleVibe = (v) =>
-    setVibes((prev) => (prev.includes(v) ? prev.filter((x) => x !== v) : [...prev, v]));
+  const [vibe, setVibe] = useState("Balanced");
   const [interests, setInterests] = useState("");
   const [origin, setOrigin] = useState("");
   const [originChoice, setOriginChoice] = useState("");
@@ -930,22 +886,11 @@ Origin: Travelling from ${origin}
 Destination: ${dest.name}
 Duration: ${days} days
 Travelers: ${travelers} ${travelers === "1" ? "person" : "people"}
-Travel style: ${vibeLabel}
+Travel style: ${vibe}
 ${interests ? `Specific interests: ${interests}` : ""}
 ${notesBlock}
 
 ⚠️ HARD RULE — DAY COUNT: The itinerary MUST contain EXACTLY ${days} days. No more, no less. Count carefully before writing. Day 1 is arrival day (travel from ${origin}). Day ${days} is departure day (return to ${origin}). All activities fit within these ${days} days. If you have reference notes with a different number of days (e.g. a 10-day or 14-day backbone), condense or expand to fit exactly ${days} days — do not follow the backbone day count blindly.
-
-⚠️ HARD RULE — VIBE IS A HARD CONSTRAINT: The user's selected travel style (${vibeLabel}) determines WHICH REGIONS you visit, not just the activities you do. Read the "BY TRAVEL STYLE" section of Rohan's notes carefully and pick regions that match. Do NOT default to a "safe" classic route (e.g. Bangkok + Phuket) if the user picked a specific vibe — they picked it for a reason. For pure single-vibe selections (e.g. only "Adventurous"), be strict about excluding regions that don't match. For multi-vibe selections, split days across matching regions.
-
-⚠️ HARD RULE — NO FABRICATION: Never invent facts you don't actually know. This applies to ALL destinations. Specifically:
-- Do NOT promise to "confirm" or "check" anything later — you can only generate this itinerary now. You are not a live concierge.
-- Do NOT claim specific flight routes exist (e.g. "direct flights from Chiang Mai to Krabi") unless Rohan's notes explicitly say so. When uncertain about routing, simply tell the user to check Skyscanner or Google Flights.
-- Do NOT invent opening hours, ticket prices in foreign currency, specific hotel names, or restaurant names that aren't in Rohan's notes.
-- Do NOT invent festival dates or seasonal events unless they're mentioned in Rohan's notes.
-- When uncertain, write: "check current details when booking" or "I'd recommend confirming on [relevant site]" — never pretend you'll do it yourself.
-
-⚠️ HARD RULE — DISCLAIMER VISIBILITY: If Rohan's notes for this destination begin with "ROHAN'S NOTE:" (e.g. about him not having visited yet), you MUST surface that note as a visible italicised disclaimer at the very top of the itinerary, BEFORE the "## Getting there" section. Format it exactly as: "*Note from Rohan: [the content of the ROHAN'S NOTE paragraph]*" — this transparency matters to users.
 
 Format the response as a clean day-by-day plan with three sections:
 
@@ -1044,7 +989,7 @@ Use plain text under each header. No markdown bold or asterisks.`;
       `From ${origin}`,
       `${days} days`,
       `${travelers} ${travelers === "1" ? "traveler" : "travelers"}`,
-      vibeLabel,
+      vibe,
       interests,
     ].filter(Boolean).join("  ·  ");
 
@@ -1227,7 +1172,7 @@ Use plain text under each header. No markdown bold or asterisks.`;
 
   const dest = DESTINATIONS.find((d) => d.id === selectedDest);
   const whatsappPrefill = itinerary && dest
-    ? `Hi Rohan! I generated a draft itinerary on Wander with Rohan for ${dest.name} (flying from ${origin}, ${days} days, ${travelers} travelers, ${vibeLabel}). I'd love your help refining it.\n\n${itinerary.slice(0, 600)}${itinerary.length > 600 ? "..." : ""}`
+    ? `Hi Rohan! I generated a draft itinerary on Wander with Rohan for ${dest.name} (flying from ${origin}, ${days} days, ${travelers} travelers, ${vibe}). I'd love your help refining it.\n\n${itinerary.slice(0, 600)}${itinerary.length > 600 ? "..." : ""}`
     : "Hi Rohan! Found you via Wander with Rohan — I'd love help planning a trip.";
 
   return (
@@ -1479,14 +1424,14 @@ Use plain text under each header. No markdown bold or asterisks.`;
                   <option value="7+">7 or more</option>
                 </select>
               </Field>
-              <Field label="Travel style (pick one or more)">
+              <Field label="Travel style">
                 <div className="flex flex-wrap gap-2">
-                  {["Relaxed", "Balanced", "Cultural", "Adventurous", "Luxury"].map((v) => (
+                  {["Relaxed", "Balanced", "Adventurous", "Luxury"].map((v) => (
                     <button
                       key={v}
-                      onClick={() => toggleVibe(v)}
+                      onClick={() => setVibe(v)}
                       className={`px-3 py-2 rounded-full text-xs border transition ${
-                        vibes.includes(v)
+                        vibe === v
                           ? "bg-sky-500 text-white border-sky-500"
                           : "bg-white text-slate-600 border-slate-200 hover:border-sky-300"
                       }`}
@@ -2464,12 +2409,12 @@ function Footer() {
         </div>
         <div className="flex flex-col items-start md:items-end gap-1.5 text-sm">
           <a
-            href="https://www.instagram.com/wander.with.rohan/"
+            href="https://www.instagram.com/rohan_jagtap29/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-slate-700 hover:text-pink-600 transition"
           >
-            <Instagram size={14} /> @wander.with.rohan
+            <Instagram size={14} /> @rohan_jagtap29
           </a>
           <a
             href={waLink("Hi! Found you via Wander with Rohan.")}
